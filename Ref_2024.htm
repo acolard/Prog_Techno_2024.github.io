@@ -1,0 +1,361 @@
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+
+        var searching = false;
+
+        async function loadDOM() {
+            const requestURL =
+                "ref.json";
+            const request = new Request(requestURL);
+
+            const response = await fetch(request);
+            const jsonFile = await response.json();
+
+            log(jsonFile);
+
+        }
+
+        var nbClass = 0;
+        let classTab = [];
+        let lstDiv = [];
+
+        loadDOM();
+
+        function createStyle() {
+
+            var styleTxt = `
+                #myInput {
+                background-image: url('https://www.w3schools.com/css/searchicon.png');
+                background-position: 10px 12px;
+                background-repeat: no-repeat;
+                width: 100%;
+                font-size: 16px;
+                padding: 12px 20px 12px 40px;
+                border: 1px solid #ddd;
+                margin-bottom: 12px;
+                }
+
+                #main {
+                font-size: x-large;
+                padding: 30px;
+                }
+            `
+                ;
+
+            for (let index = 0; index < nbClass; index++) {
+                styleTxt = styleTxt + `
+            .c${index + 1} {
+                background-color: #e5eecc;
+                border: solid 1px #c3c3c3;
+                text-overflow: ellipsis;
+                height:40px;                
+                line-height: 40px;                
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            `
+
+                if (index == 0) {
+                    styleTxt = styleTxt + `
+                text-align: center;
+                font-size: 40px;
+                    `
+                } else {
+                    styleTxt = styleTxt + `
+                padding-left: ${20 * index}px;
+                font-size: ${40 - 4 * index}px;
+                display: none;
+                    `
+                }
+
+                styleTxt = styleTxt + `
+            }
+                `
+
+            }
+
+            var style = document.createElement('style');
+            style.type = 'text/css';
+            style.innerHTML = styleTxt;
+            document.getElementsByTagName('head')[0].appendChild(style);
+
+        }
+
+        function getJsonTxt(i, txt, jsonFile) {
+
+            var divJson = ''
+            var jsonTxtTosearch = "return " + txt + ".txt;";
+            var jsonIfNext = "return " + txt + ".lvl.length;";
+
+            i.length > nbClass ? nbClass = i.length : "";
+
+            jsonsearch = new Function('jsonFile', jsonTxtTosearch);
+            divJson = "<div class=c" + i.length + " id=" + i + ">"/* + i + ": "*/ + jsonsearch(jsonFile)
+            jsonsearch = new Function('jsonFile', jsonIfNext);
+
+            //if (jsonsearch(jsonFile) == 0) {
+            divJson = divJson + "</div>"
+            // } else {
+            //divJson = divJson + "&nbsp&nbsp&#8628; </div>"
+            //}
+
+            return divJson;
+
+        }
+
+        function log(jsonFile) {
+
+            if (typeof jsonFile.lvl[0] == 'undefined') {
+
+                alert("le fichier json est vide ou n'existe pas")
+
+            } else {
+
+                var lgth = jsonFile.lvl.length;
+                var i = "0";
+                var j = "0";
+                var jsonToSearch = 'jsonFile.lvl';
+                var jsonTestUndef = '';
+                var jsonsearch = '';
+                var jsonTxt = '';
+                var divLst = '';
+
+                var testJsonUndef = new Function('jsonFile', jsonTestUndef);
+                var testJson = new Function('jsonFile', jsonsearch);
+
+                var k = 0;
+
+                while (typeof jsonFile.lvl[Number(i.charAt(0))] != 'undefined' && k < 1000) {
+
+                    //j = i.charAt(i.length - 1);
+
+                    jsonToSearch = jsonToSearch + "[" + j + "]"
+
+                    //console.log(jsonToSearch);
+
+                    jsonTestUndef = "if (typeof " + jsonToSearch + " == 'undefined') { return 'false' } else { return " + jsonToSearch + "};";
+
+                    jsonToSearch = jsonToSearch + ".lvl";
+
+                    //console.log(jsonToSearch);
+
+                    jsonsearch = "if (" + jsonToSearch + ".length ===  0) { return 'false' } else { return " + jsonToSearch + "};";
+
+                    testJsonUndef = new Function('jsonFile', jsonTestUndef);
+                    testJson = new Function('jsonFile', jsonsearch);
+
+                    if (testJsonUndef(jsonFile) == "false") {
+                        jsonToSearch = jsonToSearch.replace(new RegExp("\\[" + i.charAt(i.length - 2) + "].lvl\\[" + j + "].lvl$"), '');
+                        j = i.charAt(i.length - 2);
+                        i = i.substring(0, i.length - 2);
+                        j = String(Number(j) + 1);
+                        i = i + j;
+                        jsonToSearch = jsonToSearch + "[" + j + "]";
+                        jsonTestUndef = "if (typeof " + jsonToSearch + " == 'undefined') { return 'false' } else { return " + jsonToSearch + "};";
+                        testJsonUndef = new Function('jsonFile', jsonTestUndef);
+                        if (testJsonUndef(jsonFile) != "false") {
+
+                            divLst = divLst + getJsonTxt(i, jsonToSearch, jsonFile);
+
+                            jsonToSearch = jsonToSearch + ".lvl"
+                            i = i + "0"
+                            j = "0"
+                        } else {
+                            jsonToSearch = jsonToSearch.replace(new RegExp("\\[" + i.charAt(i.length - 2) + "].lvl\\[" + j + "]$"), '');
+                            j = i.charAt(i.length - 2);
+                            i = i.substring(0, i.length - 2);
+                            j = String(Number(j) + 1);
+                            i = i + j;
+                        }
+                    } else {
+
+                        jsonTxt = jsonToSearch.replace(new RegExp(".lvl$"), '');
+                        divLst = divLst + getJsonTxt(i, jsonTxt, jsonFile);
+
+                        if (testJson(jsonFile) == "false") {
+                            jsonToSearch = jsonToSearch.replace(new RegExp("\\[" + j + "].lvl$"), '');
+                            j = i.charAt(i.length - 1);
+                            i = i.substring(0, i.length - 1);
+                            j = String(Number(j) + 1);
+                            i = i + j;
+                        } else {
+                            i = i + "0";
+                            j = "0";
+                        }
+                    }
+
+                    k++
+                    if (k == 999) {
+                        alert("pb");
+                    }
+                }
+            }
+
+            divLst = divLst + `
+            <div id="main"></div>
+            `
+
+            document.getElementById("lst").innerHTML = divLst;
+
+            createStyle();
+
+            createInteractiveDiv(jsonFile);
+
+        }
+
+        function createInteractiveDiv(jsonFile) {
+
+            $(document).ready(
+                function () {
+
+                    for (let i = 0; i < nbClass; i++) {
+                        classTab[i] = $(`.c${i + 1}`);
+                        for (let j = 0; j < classTab[i].length; j++) {
+                            lstDiv.push(classTab[i][j]);
+                        }
+                    }
+
+                    $("div").click(
+                        function () {
+
+                            if (Number.isInteger(Number(this.id))) {
+
+                                // detecter si tous le div enfants sont cachés
+
+                                var childDivHide = true;
+
+                                for (let index = 0; index < 10; index++) {
+                                    $(`#${this.id}${index}`)[0] != undefined && $(`#${this.id}${index}`)[0].style.display == 'block' ? childDivHide = false : "";
+                                }
+
+                                //console.log(childDivHide)
+
+                                // cherher si div freres existent et visibles
+
+                                var brotherDiv;
+                                var brotherDivUnvisible = false;
+                                var k = this.id.slice(0, -1);
+
+                                $(`#${k}${Number(this.id.charAt(this.id.length - 1)) - 1}`)[0] != undefined ? brotherDiv = $(`#${k}${Number(this.id.charAt(this.id.length - 1)) - 1}`)[0] : "";
+                                $(`#${k}${Number(this.id.charAt(this.id.length - 1)) + 1}`)[0] != undefined ? brotherDiv = $(`#${k}${Number(this.id.charAt(this.id.length - 1)) + 1}`)[0] : "";
+
+                                brotherDiv != undefined ? brotherDivUnvisible = brotherDiv.style.display == 'none' : "";
+
+                                for (let index = 0; index < lstDiv.length; index++) {
+                                    lstDiv[index].style.display = 'none';
+                                }
+                                // derouler jusqua div
+
+                                for (let index = 0; index < this.id.length; index++) {
+                                    $(`#${this.id.slice(0, index + 1)}`)[0].style.display = 'block';
+
+                                }
+
+                                if (childDivHide == true) {
+
+                                    // si pas niveau plus bas
+
+                                    if ($(`#${this.id}0`)[0] == undefined) {
+
+                                        // si invisible -> montrer
+
+                                        if (brotherDivUnvisible && searching == false) {
+                                            for (let index = 0; index < 10; index++) {
+                                                $(`#${k}${index}`)[0] != null && index != this.id.charAt(this.id.length - 1) ? $(`#${k}${index}`).slideDown() : "";
+                                            }
+                                        }
+
+                                    } else {
+
+                                        // monter enfants
+
+                                        for (let index = 0; index < 10; index++) {
+                                            $(`#${this.id}${index}`)[0] != undefined ? $(`#${this.id}${index}`).slideDown() : "";
+                                        }
+
+                                    }
+
+
+                                } else {
+
+                                    // montrer frere
+
+                                    for (let index = 0; index < 10; index++) {
+                                        $(`#${k}${index}`)[0] != undefined ? $(`#${this.id.slice(0, -1)}${index}`).slideDown() : "";
+                                    }
+
+                                }
+
+                                var divMainInnerHtml = "";
+
+                                for (let index = 0; index < this.id.length; index++) {
+                                    divMainInnerHtml = divMainInnerHtml + ".lvl[" + this.id.charAt(index) + "]";
+                                }
+
+                                divMainInnerHtml = "jsonFile" + divMainInnerHtml;
+
+                                var jsonTxtTosearch = "return " + divMainInnerHtml + ".div;";
+
+                                divMainInnerHtml = new Function('jsonFile', jsonTxtTosearch);
+
+                                // si pas le niveau le plus bas
+
+                                var titleMainDiv = "";
+
+                                $(`#${this.id}0`)[0] != null ? titleMainDiv = `<h1 style="text-align: center;">` + this.innerHTML + `</h1>` : "";
+
+                                $(`#main`)[0].innerHTML =  titleMainDiv + divMainInnerHtml(jsonFile);
+
+
+                                searching = false;
+
+                            }
+                        }
+
+                    )
+                }
+            )
+
+        }
+
+        function searchFunction() {
+
+            searching = true;
+
+            var input, filter, lst, div, a, i, txtValue;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            lst = document.getElementsByTagName("div");
+
+            for (i = 1; i < lst.length; i++) {
+                txtValue = lst[i].textContent || lst[i].innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    lst[i].style.display = "block";
+                } else {
+                    lst[i].style.display = "none";
+                }
+            }
+
+            for (let index = 0; index < $(`.c1`).length; index++) {
+                $(`.c1`)[index].style.display = "block";
+            }
+
+            $(`#main`)[0].style.display = "block";
+
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+    <input type="text" id="myInput" onkeyup="searchFunction()" placeholder="Rechercher.." title="Rechercher">
+    <div class="lst" id="lst"></div>
+
+</body>
+
+</html>

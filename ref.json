@@ -1,0 +1,1211 @@
+{
+  "txt": "",
+  "div": "",
+  "lvl": [
+    {
+      "txt": "5ème",
+      "div": "",
+      "lvl": [
+        {
+          "txt": "Les objets et les systèmes techniques : leurs usages et leurs interactions à découvrir et à analyser ",
+          "div": "Les objets et les systèmes techniques peuvent évoluer rapidement et changer notre quotidien. Au travers de ce thème, les élèves étudient les objets et les systèmes techniques qui les entourent en décrivant leur fonctionnement global (mise en service et contexte d’utilisation), les usages raisonnés et détournés ainsi que l’incidence de leurs usages sur notre environnement : consommation d’énergie, disponibilité et consommation de ressources, rejets et déchets, échanges de données (images, textes, etc.). De plus, en s’appuyant sur l’étude de l’évolution des usages en fonction des innovations, des inventions et du contexte socio-économique, les élèves sont en mesure de faire le choix éclairé d’un objet ou d’un système technique au regard de critères identifiés.<br>L’étude de cas à partir de manipulations et d’expérimentations est privilégiée. Un travail collaboratif doit conduire les élèves à exprimer et à structurer leur pensée en mobilisant le langage naturel et des outils de représentation (croquis, textes, schémas, diagrammes, algorithmes, etc.). ",
+          "lvl": [
+            {
+              "txt": "Décrire les liens entre usages et évolutions technologiques des objets et des systèmes techniques ",
+              "div": "Au-delà du simple constat, les élèves apprennent à décrire les liens entre l’évolution des besoins et des exigences, et la conception des objets et des systèmes techniques, mais aussi les relations entre les avancées scientifiques, les inventions et les innovations technologiques et les transformations de la société. ",
+              "lvl": [
+                {
+                  "txt": "L’évolution des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissance</span></p><ul style='list-style-type: circle;'><li>Les &eacute;l&eacute;ments qui participent &agrave; l&rsquo;&eacute;volution des besoins (invention, innovation, d&eacute;veloppement durable) ; </li><li>La fonction technique, le principe technique ; </li><li>La famille et la lign&eacute;e d&rsquo;OST ; </li><li>Les contraintes soci&eacute;tales ; &nbsp;Les grands types d&rsquo;apprentissage des intelligences artificielles et leurs usages possibles (g&eacute;olocalisation, identification, <br />calcul, traduction, etc.) ; </li><li>Les incidences soci&eacute;tales, notamment l&rsquo;&eacute;tude du biais et de l&rsquo;effet de l&rsquo;usage d&rsquo;une intelligence artificielle (IA).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Collecter, trier et analyser des données",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Comparer des principes techniques pour une même fonction technique ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Usages et impacts sociétaux du numérique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances </span></p><ul style='list-style-type: circle;'><li>Syst&egrave;me d&rsquo;information et stockage des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>fichiers informatiques (fichier texte, fichier image, fichier de type tableur ou CSV) et dossiers, arborescence ; </li><li>extension et format de fichiers, droits d&rsquo;&eacute;criture et de lecture sur les fichiers ; </li><li>unit&eacute; de quantit&eacute; d&rsquo;information : bit, octet et leurs multiples ; </li><li>ordre de grandeur de la taille d&rsquo;un fichier image, d&rsquo;un fichier son, d&rsquo;une vid&eacute;; </li><li>incidences li&eacute;es au stockage, au flux des donn&eacute;es et aux r&eacute;seaux d&rsquo;information ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Cybers&eacute;curit&eacute; : protection des donn&eacute;es personnelles, traces num&eacute;riques (t&eacute;moins de connexion, g&eacute;olocalisation), identification, authentification, respect de la propri&eacute;t&eacute; intellectuelle ; </li><li>Cyberviolence : usurpation d&rsquo;identit&eacute;, usage d&eacute;tourn&eacute;. <br />Liens avec le CRCN </li><li>Informations et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ; </li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : s&rsquo;ins&eacute;rer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : interagir ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger les donn&eacute;es personnelles et la vie priv&eacute;e ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger la sant&eacute;, le bien-&ecirc;tre et l&rsquo;environnement.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : identifier les principales incidences de l&rsquo;activit&eacute; humaine, les b&eacute;n&eacute;fices et les risques, &agrave; la surface de la Terre ;</li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Décrire le rôle des systèmes d’information dans le partage d’information ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Recenser des données, les identifier, les classer, les représenter, les stocker dans des fichiers, les retrouver dans une arborescence ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Identifier des règles permettant de sécuriser un environnement numérique (bases de la cybersécurité) et des règles de respect de la propriété intellectuelle ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Appréhender la responsabilité de chacun dans les dérives (cyberviolence, atteinte à la vie privée, aux données personnelles, usurpation d’identité) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": " Décrire les interactions entre un objet ou un système technique, son environnement et les utilisateurs ",
+              "div": "Les élèves doivent appréhender des objets et des systèmes techniques de plus en plus complexes, que ce soit par l’augmentation du nombre de leurs fonctions, par la diversité de leurs interactions ou encore par la prise en compte des expériences vécues par les utilisateurs. La mise en service et la manipulation d’objets réels sont à privilégier, afin que les descriptions produites s’inscrivent dans la réalité. ",
+              "lvl": [
+                {
+                  "txt": "L’OST dans son environnement ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les interacteurs ext&eacute;rieurs : usagers, donn&eacute;es, autres objets, &eacute;l&eacute;ments de l&rsquo;environnement ; les modes de repr&eacute;sentation : <br />croquis, sch&eacute;ma, graphique, algorithme, mod&eacute;lisation ; </li><li>Les contraintes : prise en compte des exigences issues des normes ou d&rsquo;un cahier des charges, labels et certifications ; <br />l&rsquo;ergonomie li&eacute;e &agrave; l&rsquo;usage. <br />Liens avec le CRCN </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents textuels ; </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents multim&eacute;dias.</li></ul><span style='text-decoration: underline;'>Connaissances </span></p><ul style='list-style-type: circle;'><li>Syst&egrave;me d&rsquo;information et stockage des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>fichiers informatiques (fichier texte, fichier image, fichier de type tableur ou CSV) et dossiers, arborescence ; </li><li>extension et format de fichiers, droits d&rsquo;&eacute;criture et de lecture sur les fichiers ; </li><li>unit&eacute; de quantit&eacute; d&rsquo;information : bit, octet et leurs multiples ; </li><li>ordre de grandeur de la taille d&rsquo;un fichier image, d&rsquo;un fichier son, d&rsquo;une vid&eacute;; </li><li>incidences li&eacute;es au stockage, au flux des donn&eacute;es et aux r&eacute;seaux d&rsquo;information ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Cybers&eacute;curit&eacute; : protection des donn&eacute;es personnelles, traces num&eacute;riques (t&eacute;moins de connexion, g&eacute;olocalisation), identification, authentification, respect de la propri&eacute;t&eacute; intellectuelle ; </li><li>Cyberviolence : usurpation d&rsquo;identit&eacute;, usage d&eacute;tourn&eacute;. <br />Liens avec le CRCN </li><li>Informations et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ; </li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : s&rsquo;ins&eacute;rer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : interagir ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger les donn&eacute;es personnelles et la vie priv&eacute;e ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger la sant&eacute;, le bien-&ecirc;tre et l&rsquo;environnement.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : identifier les principales incidences de l&rsquo;activit&eacute; humaine, les b&eacute;n&eacute;fices et les risques, &agrave; la surface de la Terre ;</li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Faire la liste des interacteurs extérieurs d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Repérer et expliquer les choix de conception dans les domaines de l’ergonomie et de la sécurité ou en lien avec des objectifs de développement durable ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Caractériser et choisir un objet ou un système technique selon différents critères ",
+              "div": "Les élèves font un choix éclairé en identifiant les critères à prendre en compte pour comparer des objets et des systèmes techniques répondant à un même besoin. Ces critères portent sur les performances des objets ou des systèmes techniques, mais aussi sur leurs incidences environnementales tout au long de leur cycle de vie. ",
+              "lvl": [
+                {
+                  "txt": "Le choix d’un OST dans un contexte de développement durable ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les composantes d&rsquo;une notice et d&rsquo;une documentation technique et leur organisation ; </li><li>L&rsquo;indice &eacute;nerg&eacute;tique et l&rsquo;indice de r&eacute;parabilit&eacute; ; </li><li>Les impacts environnementaux (indicateurs : air, eau, sol et sant&eacute;) ; </li><li>Les piliers du d&eacute;veloppement durable et les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ; </li><li>Les crit&egrave;res de choix : la qualit&eacute;, l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique, la durabilit&eacute;, la recyclabilit&eacute;.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Repérer pour un OST les matériaux, les sources et les formes d’énergie, le traitement de l’information ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Identifier les étapes du cycle de vie d’un OST influencées par les choix de matériaux et d’énergie ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Choisir un OST parmi plusieurs propositions en vue de répondre à un besoin ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La performance des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les crit&egrave;res de performance d&rsquo;un OST (grandeurs mesurables : vitesse, autonomie &eacute;nerg&eacute;tique, etc.).</li></ul><p><br /><span style='text-decoration: underline;'>Lien avec le CRCN</span> </p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche et une veille d&rsquo;informations.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Physique-chimie : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>L&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie. </li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>La plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les principaux effets de l&rsquo;activit&eacute; humaine, b&eacute;n&eacute;fices et risques, &agrave; la surface de la Terre. </li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>Grandeurs et mesures :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>calculer avec des grandeurs mesurables ;</li><li>exprimer les r&eacute;sultats dans les unit&eacute;s adapt&eacute;es.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Mesurer et comparer une performance d’un OST à partir d’un protocole fourni",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "txt": "Structure, fonctionnement, comportement : des objets et des systèmes techniques à comprendre ",
+          "div": "Ce thème permet d’étudier, au sein d’objets et de systèmes techniques contemporains, les relations internes entre des fonctions techniques ainsi que les relations entre leurs constituants. L’exploration et l’expérimentation technologique des objets et des systèmes techniques disponibles qui servent de supports aux apprentissages de ce thème mobilisent des documentations techniques et des modèles numériques associés pour développer les compétences liées à ce thème. Il est nécessaire de préciser aux élèves le périmètre d’étude des objets et des systèmes techniques.<br>Tout au long du cycle 4, en mobilisant à la fois leur habileté manuelle, mais aussi leur capacité de programmation, d’usage des logiciels et des ressources informatiques disponibles, les élèves manipulent, réparent, fabriquent et, ce faisant, deviennent capables de comprendre et d’analyser le fonctionnement des objets et des systèmes techniques. L’atelier de fabrication collaboratif offre le cadre idéal pour ces apprentissages. La démarche d’investigation, la démarche technologique et la démarche de résolution de problèmes sont privilégiées. ",
+          "lvl": [
+            {
+              "txt": "Décrire et caractériser l’organisation interne d’un objet ou d’un système technique et ses échanges avec son environnement (énergies, données) ",
+              "div": "En manipulant un objet ou un système technique, l’élève est capable de décrire son fonctionnement, la chaîne d’énergie et la chaîne d’information. Les sources et les formes d’énergie sont identifiées, tout comme les conversions et les transferts. Les mouvements mécaniques sont analysés en distinguant les transmissions et les transformations au sein des objets et des systèmes techniques. L’étude de la chaîne d’information est abordée au travers du rôle central des données dans le traitement informatique, en particulier au niveau des entrées et des sorties du programme associé à l’objet ou au système technique. Les élèves doivent savoir décrire un objet à l’aide de données, puis les structurer pour en extraire de l’information et les analyser avec des outils de mise en forme et de traitement figurant dans un tableur. Après l’étude du stockage de ces données dans des fichiers, celle des composants du réseau permet de comprendre comment ces données circulent dans l’Internet. ",
+              "lvl": [
+                {
+                  "txt": "Fonctions, solutions, constituants de la chaine d’énergie",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, potentielle, thermique, lumineuse ; </li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin ; </li><li>Les fonctions des constituants suivants : batterie, relais/interrupteur ; </li><li>Les m&eacute;canismes de transmission et de transformation de mouvements (engrenages, courroies, cha&icirc;nes).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Associer des solutions techniques à une ou des fonctions techniques ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Identifier des constituants de la chaîne d’énergie d’un objet technique (l’organisation de la chaîne d’énergie étant fournie) ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Indiquer la nature des énergies en entrée et en sortie des constituants de la chaîne d’énergie ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Matériaux et procédés",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les caract&eacute;ristiques et les propri&eacute;t&eacute;s des principaux mat&eacute;riaux ; </li><li>Les caract&eacute;ristiques des proc&eacute;d&eacute;s de mise en forme disponibles dans le laboratoire ; </li><li>Les &eacute;tapes du cycle de vie d&rsquo;un OST : extraction, traitement, fabrication, assemblage, utilisation, fin de vie, transport ; l&rsquo;incidence environnementale.</li></ul><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, potentielle, thermique, lumineuse ; </li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin ; </li><li>Les fonctions des constituants suivants : batterie, relais/interrupteur ; </li><li>Les m&eacute;canismes de transmission et de transformation de mouvements (engrenages, courroies, cha&icirc;nes).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier les principaux matériaux constitutifs d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Fonctions, solutions, constituants de la chaîne d’information ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Les fonctions des constituants suivants :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>capteurs (temp&eacute;rature, pr&eacute;sence, distance, etc.), microcontr&ocirc;leur, composants d&rsquo;une interface entre l&rsquo;humain et la machine (IHM) : boutons, afficheurs, etc.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier des constituants de la chaîne d’information d’un OST (l’organisation de la chaîne d’information étant fournie) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Structuration et traitement des données ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Vocabulaire des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>objet / descripteur / collection (liste) / type (mot/cha&icirc;ne de caract&egrave;res, nombre et bool&eacute;en) /donn&eacute;es structur&eacute;es ;</li></ul></li></ul><ul style='list-style-type: circle;'><li>Repr&eacute;sentation des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>le bit : &eacute;l&eacute;ment minimum d&rsquo;information, repr&eacute;sentation par les symboles 0 et 1 ; </li><li>repr&eacute;sentation des bool&eacute;ens, des mots (code ASCII &eacute;tendu), des nombres entiers naturels ;</li></ul></li></ul><ul style='list-style-type: circle;'><li>Traitement des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mise en forme et traitement de donn&eacute;es (calculs, filtre, tri) dans un logiciel (tableur).</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Déterminer des descripteurs permettant de décrire des objets sous forme de données en précisant leurs types et leurs formats ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La circulation de l’information dans un réseau informatique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Un r&eacute;seau local, le r&eacute;seau mondial (Internet) ;</li><li>Le r&ocirc;le d&rsquo;un terminal, d&rsquo;une carte r&eacute;seau, des liaisons (filaires ou non filaires), d&rsquo;un commutateur, d&rsquo;un routeur, d&rsquo;unserveur ;</li><li>Le r&ocirc;le et la structure d&rsquo;une adresse IP, le r&ocirc;le des tables de routage ;</li><li>Le d&eacute;bit et les ordres de grandeur associ&eacute;s.</li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ;</li><li>Communication et collaboration : partager et publier ;</li><li>Communication et collaboration : collaborer ;</li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>organisation et gestion des donn&eacute;es, fonctions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>interpr&eacute;ter, repr&eacute;senter et traiter des donn&eacute;es.</li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Physique-chimie :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie ;</li></ul></li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mouvements et interactions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>caract&eacute;riser un mouvement ; des signaux pour observer et communiquer</li><li>caract&eacute;riser diff&eacute;rents types de signaux.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier les composants qui constituent un réseau local (terminaux, commutateurs, liaisons filaires et sans fil (WiFi)) et sa topologie ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Justifier la nécessité d’identifier les terminaux pour communiquer sur un réseau local (activité débranchée et vérification par un outil de simulation) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Identifier un dysfonctionnement d’un objet technique et y remédier ",
+              "div": "L’initiation des élèves au dépannage et à la réparation d’objets s’appuie sur des problèmes techniques réels. Leur résolution mobilise notamment des compétences manuelles. Ces interventions encouragent le développement de la curiosité et de l’ingéniosité des élèves. Détecter un dysfonctionnement, l’analyser, proposer une solution, réparer puis tester et valider des améliorations sont des activités à proposer aux élèves pour les aider à comprendre la structure d’un objet technique, le rôle des matériaux, l’agencement des solutions constructives. L’étude des propriétés et des caractéristiques des matériaux mobilisés permet aux élèves de comprendre le comportement mécanique des structures et les mécanismes de transformation de mouvements. ",
+              "lvl": [
+                {
+                  "txt": "Le dépannage et la réparation ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>La fiabilit&eacute;, la durabilit&eacute;, l&rsquo;indice de r&eacute;parabilit&eacute; ; </li><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation au sein d&rsquo;un atelier de fabrication <br />collaboratif ;</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>les &eacute;quipements de protection individuelle ; </li><li>l&rsquo;outillage manuel ; </li><li>l&rsquo;appareillage de prototypage, de r&eacute;alisation, de fabrication. </li></ul></li></ul><ul style='list-style-type: circle;'><li>La technologie et les caract&eacute;ristiques des composants &agrave; remplacer : capteurs, actionneurs, composants, <br />microcontr&ocirc;leurs, g&eacute;n&eacute;rateurs ;</li><li>Les proc&eacute;d&eacute;s d&rsquo;obtention de pi&egrave;ce (ajout et enl&egrave;vement de mati&egrave;re), de mise en forme (pliage, thermoformage) etd&rsquo;assemblage (fixe et d&eacute;montable) ;</li><li>Les moyens de production : d&eacute;coupe au laser, centre d&rsquo;usinage, fabrication additive (imprimante 3D) ;</li><li>Les moyens de prototypage &eacute;lectronique : plaque d&rsquo;essai, fils, composants &eacute;lectroniques, g&eacute;n&eacute;rateurs ; <br />Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>Les conductibilit&eacute;s &eacute;lectrique et thermique ; la disponibilit&eacute;, la valorisation, le recyclage des mat&eacute;riaux.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche ou une veille d&rsquo;information.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Physique-chimie : <br />&emsp;<ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie ;</li></ul></li></ul></li></ul><p>&nbsp;</p><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mouvements et interactions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>caract&eacute;riser un mouvement.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Repérer visuellement une pièce défectueuse ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Réaliser une réparation en suivant un protocole fourni ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Découvrir les procédés de réalisation présents dans un atelier de fabrication collaboratif ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Comprendre et modifier un programme associé à une fonctionnalité d’un objet ou d’un système technique ",
+              "div": "L’étude du programme réalisant une ou plusieurs fonctionnalités d’un objet ou d’un système technique permet aux élèves d’explorer son comportement. En produisant un algorithme en langage naturel, les élèves identifient les données utilisées ou produites, les interprètent et les traitent si besoin est. Des modifications peuvent être apportées à ce programme, pour répondre à une nouvelle fonctionnalité. L’acquisition des concepts fondamentaux de la programmation s’effectue tout au long du cycle 4, en lien avec le professeur de mathématiques de la classe. ",
+              "lvl": [
+                {
+                  "txt": "La programmation d’une nouvelle fonctionnalité ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Algorithmique et programmation :&nbsp;</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>instruction d&rsquo;affectation, variable (type mot, nombre et bool&eacute;en) ;</li><li>op&eacute;rateurs arithm&eacute;tiques et logiques (ET, OU, NON);</li><li>instruction conditionnelle ;</li><li>instructions it&eacute;ratives ;</li><li>structure de donn&eacute;es &laquo; listes &raquo; afin de stocker des donn&eacute;es issues du programme pour les parcourir et les traiter ;</li><li>s&eacute;quences (bloc) d&rsquo;instructions ;</li><li>&eacute;v&eacute;nement ;</li><li>d&eacute;clenchement d&rsquo;une s&eacute;quence d&rsquo;instructions par un &eacute;v&eacute;nement ;</li><li>entr&eacute;es ou sorties d&rsquo;un programme (donn&eacute;es issues par exemple de capteurs IHM et sorties pouvant &ecirc;tre en lien avec un actionneur, fichiers) ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Programmation graphique par blocs ; </li><li>Lien entre la programmation graphique par bloc et la programmation textuelle (fin de 3 e ).</li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Cr&eacute;ation de contenus : programmer.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>algorithmique et programmation :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>&eacute;crire, mettre au point, ex&eacute;cuter un programme.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier les données utilisées et produites par le programme associé à une fonctionnalité d’un OST (à partir d’un programme existant) ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Comprendre et traduire en un algorithme en langage naturel le programme associé à une fonctionnalité d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Modifier les paramètres d’un programme et identifier ou évaluer ses effets en termes de fonctionnalité ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "txt": "Création, conception, réalisation, innovations : des objets à concevoir et à réaliser",
+          "div": "À travers ce thème, de manière collaborative, les élèves analysent un problème, conçoivent et matérialisent des solutions. Ils développent des habiletés manuelles (créer, réaliser, construire, installer, assembler, produire, mettre en œuvre, mesurer vérifier, exécuter) et des compétences de programmation et de communication au travers de revues de projets (suivi, validation, argumentation, explications, etc.).<br>Les démarches de projet et les phases de créativité mises en œuvre conduisent les élèves à mobiliser leurs connaissances et leurs compétences, notamment celles développées et décrites dans les deux thèmes précédents. Ils sont invités à développer leur esprit critique en réponse à un besoin lié à un enjeu sociétal, en s’appuyant sur des données fiables. Ils exercent leur esprit critique en identifiant les leviers d’action et en se centrant sur les besoins de l’utilisateur. Ils débattent, argumentent et portent un regard critique sur les solutions proposées au regard de leur efficacité et de leurs incidences environnementales et sociétales. Ils imaginent ainsi les solutions les plus appropriées, en alternant les phases de créativité individuelle et collective, et pouvant intégrer une dimension design.<br>Les démarches de projet et les phases de créativité sont menées dans un environnement de type classe modulaire ou flexible, au sein de l’atelier de fabrication collaboratif, tout en ayant recours à un environnement informatique maîtrisé (ENT, réseau, identité numérique, etc.).",
+          "lvl": [
+            {
+              "txt": "Imaginer, concevoir et réaliser une ou des solutions en réponse à un besoin, à des exigences (de développement durable, par exemple) ou à la nécessité d’améliorations dans une démarche de créativité ",
+              "div": "En comparant des solutions existantes ou des familles de produits, les élèves imaginent et formulent une solution associée à une fonction technique répondant à un besoin. Ainsi sont-ils amenés à conceptualiser progressivement les démarches d’investigation, de créativité et de projet. ",
+              "lvl": [
+                {
+                  "txt": "La gestion de projet technique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Le diagramme de planification des t&acirc;ches : notion de t&acirc;ches, dur&eacute;e et contraintes entre t&acirc;ches ;</li><li>Les &eacute;tapes d&rsquo;un projet, le r&ocirc;le d&rsquo;une revue de projet ;</li><li>L&rsquo;&eacute;coconception.</li></ul><p><br /><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>Les contraintes soci&eacute;tales ;</li><li>L&rsquo;incidence environnementale ;</li><li>Les piliers du d&eacute;veloppement durable.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Suivre un processus de conception et de réalisation dans une durée, avec des tâches identifiées ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le prototypage de solutions ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de repr&eacute;sentation (croquis, sch&eacute;ma, graphique, algorithme, mod&eacute;lisation) ;</li><li>Les m&eacute;canismes de transmission et de transformation de mouvements ;</li><li>Les proc&eacute;d&eacute;s d&rsquo;obtention de pi&egrave;ce (ajout et enl&egrave;vement de mati&egrave;re), de mise en forme (pliage, thermoformage) et <br />d&rsquo;assemblage (fixe et d&eacute;montable) ;</li><li>L&rsquo;ergonomie li&eacute;e &agrave; l&rsquo;usage ;</li><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation dans un atelier de fabrication collaboratif ; les exigences, les interacteurs, les crit&egrave;res.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Fabriquer une solution pour améliorer un OST existant ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le choix des matériaux ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>Les conductibilit&eacute;s &eacute;lectrique et thermique ;</li><li>La disponibilit&eacute;, la valorisation, le recyclage des mat&eacute;riaux ;</li><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>L&rsquo;empreinte carbone.</li></ul><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Le diagramme de planification des t&acirc;ches : notion de t&acirc;ches, dur&eacute;e et contraintes entre t&acirc;ches ;</li><li>Les &eacute;tapes d&rsquo;un projet, le r&ocirc;le d&rsquo;une revue de projet ;</li><li>L&rsquo;&eacute;coconception.</li></ul><p><br /><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>Les contraintes soci&eacute;tales ;</li><li>L&rsquo;incidence environnementale ;</li><li>Les piliers du d&eacute;veloppement durable.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Choisir un matériau parmi plusieurs proposés en fonction de leurs caractéristiques ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le choix d’une source d’énergie ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, thermique, lumineuse ;</li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Choisir une source d’énergie parmi plusieurs proposées et une forme d’énergie possible ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "L’assemblage de constituants ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les fonctions des constituants de la cha&icirc;ne d&rsquo;&eacute;nergie : batterie, relais/interrupteur ;</li><li>Les m&eacute;canismes de transmission de mouvements (engrenages, courroies, cha&icirc;nes) ;</li><li>Les fonctions des constituants suivants : capteurs (temp&eacute;rature, pr&eacute;sence, distance, etc.), microcontr&ocirc;leur, composants d&rsquo;une interface humain-machine (boutons, afficheurs, etc.).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Assembler les constituants fournis pour réaliser un prototype ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La modélisation et la fabrication ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Les instruments de mesure.</li></ul><p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation au sein d&rsquo;un atelier de fabrication <br />collaboratif ;</li><li>Les moyens de production : d&eacute;coupe au laser, centre d&rsquo;usinage, fabrication additive (imprimante 3D).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Mettre en œuvre les moyens pour réaliser une forme selon une procédure fournie ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Les objets communicants ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Le r&ocirc;le d&rsquo;un terminal, d&rsquo;une carte r&eacute;seau, des liaisons (filaires ou non filaires), d&rsquo;un commutateur, d&rsquo;un routeur, d&rsquo;un <br />serveur ;</li><li>Les composants d&rsquo;une interface entre l&rsquo;humain et la machine (IHM) : boutons, afficheurs, etc.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Communication et collaboration : interagir ;</li><li>Communication et collaboration : collaborer ;</li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents textuels dans le cadre des revues de projet ;</li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents multim&eacute;dias.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : </li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Non abordé",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Valider les solutions techniques par des simulations ou par des protocoles de tests ",
+              "div": "Après avoir concrétisé leurs choix de solutions lors de la phase de réalisation, les élèves s’attachent à la vérification, au contrôle et à la validation de solutions. Cette phase essentielle, menée par l’intermédiaire de simulations ou l’utilisation d’appareils de mesure, permet de comparer les résultats obtenus ou simulés avec des résultats attendus ou des exigences issues d’un cahier des charges. Les élèves identifient les écarts, la précision, les erreurs de mesure. Ils s’appuient sur les documentations techniques mises à leur disposition (documents des constructeurs, données des fabricants, etc.). Les élèves proposent et réalisent un protocole de tests (ce terme englobe l’ensemble des expérimentations, des essais et des mesures que les élèves sont amenés à mettre en œuvre pour valider leurs solutions). ",
+              "lvl": [
+                {
+                  "txt": "La validation du comportement mécanique d’un matériau ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>L&rsquo;indice &eacute;nerg&eacute;tique et l&rsquo;indice de r&eacute;parabilit&eacute;.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Utiliser une simulation fournie pour valider la tenue mécanique d’un matériau ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Mettre en œuvre un protocole de test fourni pour valider la tenue mécanique d’un matériau ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La validation des performances d’un OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li> Les param&egrave;tres et les grandeurs mesur&eacute;es, associ&eacute;s &agrave; un protocole ;<br /> Les exigences, les contraintes issues des normes ou d&rsquo;un cahier des charges.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li> Information et donn&eacute;es : g&eacute;rer et traiter des donn&eacute;es ;</li><li> Communication et collaboration : partager et publier ;</li><li> Communication et collaboration : collaborer ;</li><li> Cr&eacute;ation de contenus : d&eacute;velopper des documents &agrave; contenu majoritairement textuel ;</li><li> Cr&eacute;ation de contenus : concevoir des documents visuels et sonores ;</li><li> Environnement num&eacute;rique : r&eacute;soudre des probl&egrave;mes techniques.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li> Physique-chimie :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions : r&eacute;aliser des circuits &eacute;lectriques simples et exploiter les lois de l&rsquo;&eacute;lectricit&eacute; ;</li><li>mouvements et interactions : mod&eacute;liser une action exerc&eacute;e sur un objet par une force caract&eacute;ris&eacute;e par une direction, un sens et une valeur.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Vérifier le comportement et les performances d’un objet technique en suivant un protocole fourni ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Concevoir, écrire, tester et mettre au point un programme ",
+              "div": "Face à un problème donné, dans le cadre d’un projet nécessitant de la programmation, une phase d’analyse permet aux élèves d’expliciter les fonctionnalités du programme à réaliser puis de concevoir un algorithme en langage naturel répondant au problème posé. Celui-ci est ensuite traduit dans un langage informatique en le structurant avec des sous-programmes ou des fonctions pour en assurer la lisibilité. Une phase de tests et de mise au point permet d’aboutir à un programme répondant aux besoins spécifiés. Le travail en équipe est privilégié pour l’élaboration de projets. Un partage des fonctionnalités à programmer est planifié et piloté par l’enseignant en interaction avec l’équipe d’élèves chargée du projet. ",
+              "lvl": [
+                {
+                  "txt": "La programmation des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><p><br />On retrouve ici les connaissances de la comp&eacute;tence &laquo; Comprendre et modifier le programme associ&eacute; &agrave; une fonction d&rsquo;un objet <br />ou syst&egrave;me technique &raquo; du second th&egrave;me.</p><p><br /><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>La modularit&eacute; : sous-programme, fonction ;</li><li>La structuration d&rsquo;un programme (organisation, modularit&eacute;, commentaires). </li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span> </p><ul style='list-style-type: circle;'><li>Informations et donn&eacute;es : g&eacute;rer et traiter des donn&eacute;es ; </li><li>Communication et collaboration : partager et publier ; </li><li>Communication et collaboration : collaborer ; </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents visuels et sonores ; </li><li>Cr&eacute;ation de contenus : programmer ; </li><li>Environnement num&eacute;rique : r&eacute;soudre des probl&egrave;mes techniques.</li></ul><p><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span> </p><ul style='list-style-type: circle;'><li>Math&eacute;matiques : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>o organisation et gestion de donn&eacute;es, fonctions : interpr&eacute;ter, repr&eacute;senter et traiter des donn&eacute;es ;</li><li>o algorithmique et programmation : &eacute;crire, mettre au point et ex&eacute;cuter un programme simple.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Analyser un programme simple fourni et tester s’il répond au besoin ou au problème posé ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Modifier un programme fourni pour répondre au besoin ou à un problème posé ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Réaliser et mettre au point un programme simple commandant un OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "txt": "4ème",
+      "div": "",
+      "lvl": [
+        {
+          "txt": "Les objets et les systèmes techniques : leurs usages et leurs interactions à découvrir et à analyser ",
+          "div": "Les objets et les systèmes techniques peuvent évoluer rapidement et changer notre quotidien. Au travers de ce thème, les élèves étudient les objets et les systèmes techniques qui les entourent en décrivant leur fonctionnement global (mise en service et contexte d’utilisation), les usages raisonnés et détournés ainsi que l’incidence de leurs usages sur notre environnement : consommation d’énergie, disponibilité et consommation de ressources, rejets et déchets, échanges de données (images, textes, etc.). De plus, en s’appuyant sur l’étude de l’évolution des usages en fonction des innovations, des inventions et du contexte socio-économique, les élèves sont en mesure de faire le choix éclairé d’un objet ou d’un système technique au regard de critères identifiés.<br>L’étude de cas à partir de manipulations et d’expérimentations est privilégiée. Un travail collaboratif doit conduire les élèves à exprimer et à structurer leur pensée en mobilisant le langage naturel et des outils de représentation (croquis, textes, schémas, diagrammes, algorithmes, etc.). ",
+          "lvl": [
+            {
+              "txt": "Décrire les liens entre usages et évolutions technologiques des objets et des systèmes techniques ",
+              "div": "Au-delà du simple constat, les élèves apprennent à décrire les liens entre l’évolution des besoins et des exigences, et la conception des objets et des systèmes techniques, mais aussi les relations entre les avancées scientifiques, les inventions et les innovations technologiques et les transformations de la société. ",
+              "lvl": [
+                {
+                  "txt": "L’évolution des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissance</span></p><ul style='list-style-type: circle;'><li>Les &eacute;l&eacute;ments qui participent &agrave; l&rsquo;&eacute;volution des besoins (invention, innovation, d&eacute;veloppement durable) ; </li><li>La fonction technique, le principe technique ; </li><li>La famille et la lign&eacute;e d&rsquo;OST ; </li><li>Les contraintes soci&eacute;tales ; &nbsp;Les grands types d&rsquo;apprentissage des intelligences artificielles et leurs usages possibles (g&eacute;olocalisation, identification, <br />calcul, traduction, etc.) ; </li><li>Les incidences soci&eacute;tales, notamment l&rsquo;&eacute;tude du biais et de l&rsquo;effet de l&rsquo;usage d&rsquo;une intelligence artificielle (IA).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Mettre en relation les OST avec leurs usages ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Identifier les avantages et les inconvénients associés aux évolutions technologiques et informatiques ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Justifier l’évolution d’un OST pour répondre à l’évolution des besoins ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Usages et impacts sociétaux du numérique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances </span></p><ul style='list-style-type: circle;'><li>Syst&egrave;me d&rsquo;information et stockage des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>fichiers informatiques (fichier texte, fichier image, fichier de type tableur ou CSV) et dossiers, arborescence ; </li><li>extension et format de fichiers, droits d&rsquo;&eacute;criture et de lecture sur les fichiers ; </li><li>unit&eacute; de quantit&eacute; d&rsquo;information : bit, octet et leurs multiples ; </li><li>ordre de grandeur de la taille d&rsquo;un fichier image, d&rsquo;un fichier son, d&rsquo;une vid&eacute;; </li><li>incidences li&eacute;es au stockage, au flux des donn&eacute;es et aux r&eacute;seaux d&rsquo;information ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Cybers&eacute;curit&eacute; : protection des donn&eacute;es personnelles, traces num&eacute;riques (t&eacute;moins de connexion, g&eacute;olocalisation), identification, authentification, respect de la propri&eacute;t&eacute; intellectuelle ; </li><li>Cyberviolence : usurpation d&rsquo;identit&eacute;, usage d&eacute;tourn&eacute;. <br />Liens avec le CRCN </li><li>Informations et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ; </li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : s&rsquo;ins&eacute;rer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : interagir ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger les donn&eacute;es personnelles et la vie priv&eacute;e ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger la sant&eacute;, le bien-&ecirc;tre et l&rsquo;environnement.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : identifier les principales incidences de l&rsquo;activit&eacute; humaine, les b&eacute;n&eacute;fices et les risques, &agrave; la surface de la Terre ;</li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier et appliquer les règles pour un usage raisonné des objets communicants et des environnements numériques (propriété intellectuelle, identité numérique, témoins de connexion, géolocalisation) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": " Décrire les interactions entre un objet ou un système technique, son environnement et les utilisateurs ",
+              "div": "Les élèves doivent appréhender des objets et des systèmes techniques de plus en plus complexes, que ce soit par l’augmentation du nombre de leurs fonctions, par la diversité de leurs interactions ou encore par la prise en compte des expériences vécues par les utilisateurs. La mise en service et la manipulation d’objets réels sont à privilégier, afin que les descriptions produites s’inscrivent dans la réalité. ",
+              "lvl": [
+                {
+                  "txt": "L’OST dans son environnement ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les interacteurs ext&eacute;rieurs : usagers, donn&eacute;es, autres objets, &eacute;l&eacute;ments de l&rsquo;environnement ; les modes de repr&eacute;sentation : <br />croquis, sch&eacute;ma, graphique, algorithme, mod&eacute;lisation ; </li><li>Les contraintes : prise en compte des exigences issues des normes ou d&rsquo;un cahier des charges, labels et certifications ; <br />l&rsquo;ergonomie li&eacute;e &agrave; l&rsquo;usage. <br />Liens avec le CRCN </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents textuels ; </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents multim&eacute;dias.</li></ul><span style='text-decoration: underline;'>Connaissances </span></p><ul style='list-style-type: circle;'><li>Syst&egrave;me d&rsquo;information et stockage des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>fichiers informatiques (fichier texte, fichier image, fichier de type tableur ou CSV) et dossiers, arborescence ; </li><li>extension et format de fichiers, droits d&rsquo;&eacute;criture et de lecture sur les fichiers ; </li><li>unit&eacute; de quantit&eacute; d&rsquo;information : bit, octet et leurs multiples ; </li><li>ordre de grandeur de la taille d&rsquo;un fichier image, d&rsquo;un fichier son, d&rsquo;une vid&eacute;; </li><li>incidences li&eacute;es au stockage, au flux des donn&eacute;es et aux r&eacute;seaux d&rsquo;information ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Cybers&eacute;curit&eacute; : protection des donn&eacute;es personnelles, traces num&eacute;riques (t&eacute;moins de connexion, g&eacute;olocalisation), identification, authentification, respect de la propri&eacute;t&eacute; intellectuelle ; </li><li>Cyberviolence : usurpation d&rsquo;identit&eacute;, usage d&eacute;tourn&eacute;. <br />Liens avec le CRCN </li><li>Informations et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ; </li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : s&rsquo;ins&eacute;rer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : interagir ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger les donn&eacute;es personnelles et la vie priv&eacute;e ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger la sant&eacute;, le bien-&ecirc;tre et l&rsquo;environnement.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : identifier les principales incidences de l&rsquo;activit&eacute; humaine, les b&eacute;n&eacute;fices et les risques, &agrave; la surface de la Terre ;</li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Décrire l’expérience de l’utilisateur (ressenti et facilité d’usage) d’un OST en partant du langage naturel (texte, croquis) pour aboutir aux schémas, graphiques, algorithmes ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Repérer et expliquer les contraintes, exigences prises en compte (sécurité, incidences environnementales, formes et fonctions, ergonomie, qualité, fiabilité) pour répondre aux attentes des utilisateurs ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Caractériser et choisir un objet ou un système technique selon différents critères ",
+              "div": "Les élèves font un choix éclairé en identifiant les critères à prendre en compte pour comparer des objets et des systèmes techniques répondant à un même besoin. Ces critères portent sur les performances des objets ou des systèmes techniques, mais aussi sur leurs incidences environnementales tout au long de leur cycle de vie. ",
+              "lvl": [
+                {
+                  "txt": "Le choix d’un OST dans un contexte de développement durable ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les composantes d&rsquo;une notice et d&rsquo;une documentation technique et leur organisation ; </li><li>L&rsquo;indice &eacute;nerg&eacute;tique et l&rsquo;indice de r&eacute;parabilit&eacute; ; </li><li>Les impacts environnementaux (indicateurs : air, eau, sol et sant&eacute;) ; </li><li>Les piliers du d&eacute;veloppement durable et les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ; </li><li>Les crit&egrave;res de choix : la qualit&eacute;, l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique, la durabilit&eacute;, la recyclabilit&eacute;.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier les caractéristiques à prendre en compte dans le choix d’un OST en vue de répondre à un besoin ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Comparer qualitativement et/ou quantitativement (incidences environnementales, bilan carbone, efficacité énergétique) plusieurs OST répondant au même besoin et arrêter un choix ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La performance des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les crit&egrave;res de performance d&rsquo;un OST (grandeurs mesurables : vitesse, autonomie &eacute;nerg&eacute;tique, etc.).</li></ul><p><br /><span style='text-decoration: underline;'>Lien avec le CRCN</span> </p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche et une veille d&rsquo;informations.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Physique-chimie : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>L&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie. </li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>La plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les principaux effets de l&rsquo;activit&eacute; humaine, b&eacute;n&eacute;fices et risques, &agrave; la surface de la Terre. </li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>Grandeurs et mesures :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>calculer avec des grandeurs mesurables ;</li><li>exprimer les r&eacute;sultats dans les unit&eacute;s adapt&eacute;es.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Choisir les appareils de mesure à utiliser pour mesurer une performance d’un OST à partir d’un protocole donné ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "txt": "Structure, fonctionnement, comportement : des objets et des systèmes techniques à comprendre ",
+          "div": "Ce thème permet d’étudier, au sein d’objets et de systèmes techniques contemporains, les relations internes entre des fonctions techniques ainsi que les relations entre leurs constituants. L’exploration et l’expérimentation technologique des objets et des systèmes techniques disponibles qui servent de supports aux apprentissages de ce thème mobilisent des documentations techniques et des modèles numériques associés pour développer les compétences liées à ce thème. Il est nécessaire de préciser aux élèves le périmètre d’étude des objets et des systèmes techniques.<br>Tout au long du cycle 4, en mobilisant à la fois leur habileté manuelle, mais aussi leur capacité de programmation, d’usage des logiciels et des ressources informatiques disponibles, les élèves manipulent, réparent, fabriquent et, ce faisant, deviennent capables de comprendre et d’analyser le fonctionnement des objets et des systèmes techniques. L’atelier de fabrication collaboratif offre le cadre idéal pour ces apprentissages. La démarche d’investigation, la démarche technologique et la démarche de résolution de problèmes sont privilégiées. ",
+          "lvl": [
+            {
+              "txt": "Décrire et caractériser l’organisation interne d’un objet ou d’un système technique et ses échanges avec son environnement (énergies, données) ",
+              "div": "En manipulant un objet ou un système technique, l’élève est capable de décrire son fonctionnement, la chaîne d’énergie et la chaîne d’information. Les sources et les formes d’énergie sont identifiées, tout comme les conversions et les transferts. Les mouvements mécaniques sont analysés en distinguant les transmissions et les transformations au sein des objets et des systèmes techniques. L’étude de la chaîne d’information est abordée au travers du rôle central des données dans le traitement informatique, en particulier au niveau des entrées et des sorties du programme associé à l’objet ou au système technique. Les élèves doivent savoir décrire un objet à l’aide de données, puis les structurer pour en extraire de l’information et les analyser avec des outils de mise en forme et de traitement figurant dans un tableur. Après l’étude du stockage de ces données dans des fichiers, celle des composants du réseau permet de comprendre comment ces données circulent dans l’Internet. ",
+              "lvl": [
+                {
+                  "txt": "Fonctions, solutions, constituants de la chaine d’énergie",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, potentielle, thermique, lumineuse ; </li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin ; </li><li>Les fonctions des constituants suivants : batterie, relais/interrupteur ; </li><li>Les m&eacute;canismes de transmission et de transformation de mouvements (engrenages, courroies, cha&icirc;nes).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier les constituants d’une chaîne d’énergie et les associer à leurs fonctions ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Repérer les transformations d’énergie et les flux d’énergie au sein de l’OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Matériaux et procédés",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les caract&eacute;ristiques et les propri&eacute;t&eacute;s des principaux mat&eacute;riaux ; </li><li>Les caract&eacute;ristiques des proc&eacute;d&eacute;s de mise en forme disponibles dans le laboratoire ; </li><li>Les &eacute;tapes du cycle de vie d&rsquo;un OST : extraction, traitement, fabrication, assemblage, utilisation, fin de vie, transport ; l&rsquo;incidence environnementale.</li></ul><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, potentielle, thermique, lumineuse ; </li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin ; </li><li>Les fonctions des constituants suivants : batterie, relais/interrupteur ; </li><li>Les m&eacute;canismes de transmission et de transformation de mouvements (engrenages, courroies, cha&icirc;nes).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Mettre en relation la forme d’une pièce avec le procédé de réalisation ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Fonctions, solutions, constituants de la chaîne d’information ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Les fonctions des constituants suivants :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>capteurs (temp&eacute;rature, pr&eacute;sence, distance, etc.), microcontr&ocirc;leur, composants d&rsquo;une interface entre l&rsquo;humain et la machine (IHM) : boutons, afficheurs, etc.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier les constituants de la chaîne d’information d’un objet réel et les associer à leur fonction ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Structuration et traitement des données ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Vocabulaire des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>objet / descripteur / collection (liste) / type (mot/cha&icirc;ne de caract&egrave;res, nombre et bool&eacute;en) /donn&eacute;es structur&eacute;es ;</li></ul></li></ul><ul style='list-style-type: circle;'><li>Repr&eacute;sentation des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>le bit : &eacute;l&eacute;ment minimum d&rsquo;information, repr&eacute;sentation par les symboles 0 et 1 ; </li><li>repr&eacute;sentation des bool&eacute;ens, des mots (code ASCII &eacute;tendu), des nombres entiers naturels ;</li></ul></li></ul><ul style='list-style-type: circle;'><li>Traitement des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mise en forme et traitement de donn&eacute;es (calculs, filtre, tri) dans un logiciel (tableur).</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Décrire et analyser la transformation des données téléversées ou issues d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Décrire et analyser la structuration d’une table de données qui permet une exploitation et une interprétation du comportement d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La circulation de l’information dans un réseau informatique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Un r&eacute;seau local, le r&eacute;seau mondial (Internet) ;</li><li>Le r&ocirc;le d&rsquo;un terminal, d&rsquo;une carte r&eacute;seau, des liaisons (filaires ou non filaires), d&rsquo;un commutateur, d&rsquo;un routeur, d&rsquo;unserveur ;</li><li>Le r&ocirc;le et la structure d&rsquo;une adresse IP, le r&ocirc;le des tables de routage ;</li><li>Le d&eacute;bit et les ordres de grandeur associ&eacute;s.</li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ;</li><li>Communication et collaboration : partager et publier ;</li><li>Communication et collaboration : collaborer ;</li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>organisation et gestion des donn&eacute;es, fonctions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>interpr&eacute;ter, repr&eacute;senter et traiter des donn&eacute;es.</li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Physique-chimie :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie ;</li></ul></li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mouvements et interactions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>caract&eacute;riser un mouvement ; des signaux pour observer et communiquer</li><li>caract&eacute;riser diff&eacute;rents types de signaux.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Paramétrer une adresse IP fixe pour ajouter un objet connecté à un réseau local. ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Résoudre des problèmes pour assurer la communication entre les différents terminaux dans un réseau informatique (simulation ou réseau local déconnecté du réseau pédagogique) ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Compléter une simulation fournie pour valider le comportement d’un réseau informatique ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Identifier un dysfonctionnement d’un objet technique et y remédier ",
+              "div": "L’initiation des élèves au dépannage et à la réparation d’objets s’appuie sur des problèmes techniques réels. Leur résolution mobilise notamment des compétences manuelles. Ces interventions encouragent le développement de la curiosité et de l’ingéniosité des élèves. Détecter un dysfonctionnement, l’analyser, proposer une solution, réparer puis tester et valider des améliorations sont des activités à proposer aux élèves pour les aider à comprendre la structure d’un objet technique, le rôle des matériaux, l’agencement des solutions constructives. L’étude des propriétés et des caractéristiques des matériaux mobilisés permet aux élèves de comprendre le comportement mécanique des structures et les mécanismes de transformation de mouvements. ",
+              "lvl": [
+                {
+                  "txt": "Le dépannage et la réparation ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>La fiabilit&eacute;, la durabilit&eacute;, l&rsquo;indice de r&eacute;parabilit&eacute; ; </li><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation au sein d&rsquo;un atelier de fabrication <br />collaboratif ;</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>les &eacute;quipements de protection individuelle ; </li><li>l&rsquo;outillage manuel ; </li><li>l&rsquo;appareillage de prototypage, de r&eacute;alisation, de fabrication. </li></ul></li></ul><ul style='list-style-type: circle;'><li>La technologie et les caract&eacute;ristiques des composants &agrave; remplacer : capteurs, actionneurs, composants, <br />microcontr&ocirc;leurs, g&eacute;n&eacute;rateurs ;</li><li>Les proc&eacute;d&eacute;s d&rsquo;obtention de pi&egrave;ce (ajout et enl&egrave;vement de mati&egrave;re), de mise en forme (pliage, thermoformage) etd&rsquo;assemblage (fixe et d&eacute;montable) ;</li><li>Les moyens de production : d&eacute;coupe au laser, centre d&rsquo;usinage, fabrication additive (imprimante 3D) ;</li><li>Les moyens de prototypage &eacute;lectronique : plaque d&rsquo;essai, fils, composants &eacute;lectroniques, g&eacute;n&eacute;rateurs ; <br />Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>Les conductibilit&eacute;s &eacute;lectrique et thermique ; la disponibilit&eacute;, la valorisation, le recyclage des mat&eacute;riaux.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche ou une veille d&rsquo;information.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Physique-chimie : <br />&emsp;<ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie ;</li></ul></li></ul></li></ul><p>&nbsp;</p><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mouvements et interactions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>caract&eacute;riser un mouvement.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Proposer un protocole permettant de vérifier l’origine d’un dysfonctionnement ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Remplacer une pièce défectueuse sans protocole fourni (la pièce de remplacement étant fournie) ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Choisir les procédés de réalisation et les mettre en œuvre ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Comprendre et modifier un programme associé à une fonctionnalité d’un objet ou d’un système technique ",
+              "div": "L’étude du programme réalisant une ou plusieurs fonctionnalités d’un objet ou d’un système technique permet aux élèves d’explorer son comportement. En produisant un algorithme en langage naturel, les élèves identifient les données utilisées ou produites, les interprètent et les traitent si besoin est. Des modifications peuvent être apportées à ce programme, pour répondre à une nouvelle fonctionnalité. L’acquisition des concepts fondamentaux de la programmation s’effectue tout au long du cycle 4, en lien avec le professeur de mathématiques de la classe. ",
+              "lvl": [
+                {
+                  "txt": "La programmation d’une nouvelle fonctionnalité ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Algorithmique et programmation :&nbsp;</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>instruction d&rsquo;affectation, variable (type mot, nombre et bool&eacute;en) ;</li><li>op&eacute;rateurs arithm&eacute;tiques et logiques (ET, OU, NON);</li><li>instruction conditionnelle ;</li><li>instructions it&eacute;ratives ;</li><li>structure de donn&eacute;es &laquo; listes &raquo; afin de stocker des donn&eacute;es issues du programme pour les parcourir et les traiter ;</li><li>s&eacute;quences (bloc) d&rsquo;instructions ;</li><li>&eacute;v&eacute;nement ;</li><li>d&eacute;clenchement d&rsquo;une s&eacute;quence d&rsquo;instructions par un &eacute;v&eacute;nement ;</li><li>entr&eacute;es ou sorties d&rsquo;un programme (donn&eacute;es issues par exemple de capteurs IHM et sorties pouvant &ecirc;tre en lien avec un actionneur, fichiers) ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Programmation graphique par blocs ; </li><li>Lien entre la programmation graphique par bloc et la programmation textuelle (fin de 3 e ).</li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Cr&eacute;ation de contenus : programmer.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>algorithmique et programmation :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>&eacute;crire, mettre au point, ex&eacute;cuter un programme.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Analyser les données et en déduire des modifications à apporter au programme ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Compléter un programme pour répondre à une fonctionnalité d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Tester et valider, dans un environnement simulé ou réel, une modification du programme ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "txt": "Création, conception, réalisation, innovations : des objets à concevoir et à réaliser",
+          "div": "À travers ce thème, de manière collaborative, les élèves analysent un problème, conçoivent et matérialisent des solutions. Ils développent des habiletés manuelles (créer, réaliser, construire, installer, assembler, produire, mettre en œuvre, mesurer vérifier, exécuter) et des compétences de programmation et de communication au travers de revues de projets (suivi, validation, argumentation, explications, etc.).<br>Les démarches de projet et les phases de créativité mises en œuvre conduisent les élèves à mobiliser leurs connaissances et leurs compétences, notamment celles développées et décrites dans les deux thèmes précédents. Ils sont invités à développer leur esprit critique en réponse à un besoin lié à un enjeu sociétal, en s’appuyant sur des données fiables. Ils exercent leur esprit critique en identifiant les leviers d’action et en se centrant sur les besoins de l’utilisateur. Ils débattent, argumentent et portent un regard critique sur les solutions proposées au regard de leur efficacité et de leurs incidences environnementales et sociétales. Ils imaginent ainsi les solutions les plus appropriées, en alternant les phases de créativité individuelle et collective, et pouvant intégrer une dimension design.<br>Les démarches de projet et les phases de créativité sont menées dans un environnement de type classe modulaire ou flexible, au sein de l’atelier de fabrication collaboratif, tout en ayant recours à un environnement informatique maîtrisé (ENT, réseau, identité numérique, etc.).",
+          "lvl": [
+            {
+              "txt": "Imaginer, concevoir et réaliser une ou des solutions en réponse à un besoin, à des exigences (de développement durable, par exemple) ou à la nécessité d’améliorations dans une démarche de créativité ",
+              "div": "En comparant des solutions existantes ou des familles de produits, les élèves imaginent et formulent une solution associée à une fonction technique répondant à un besoin. Ainsi sont-ils amenés à conceptualiser progressivement les démarches d’investigation, de créativité et de projet. ",
+              "lvl": [
+                {
+                  "txt": "La gestion de projet technique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Le diagramme de planification des t&acirc;ches : notion de t&acirc;ches, dur&eacute;e et contraintes entre t&acirc;ches ;</li><li>Les &eacute;tapes d&rsquo;un projet, le r&ocirc;le d&rsquo;une revue de projet ;</li><li>L&rsquo;&eacute;coconception.</li></ul><p><br /><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>Les contraintes soci&eacute;tales ;</li><li>L&rsquo;incidence environnementale ;</li><li>Les piliers du d&eacute;veloppement durable.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Organiser un processus de conception et de réalisation dans une durée, avec des tâches identifiées ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le prototypage de solutions ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de repr&eacute;sentation (croquis, sch&eacute;ma, graphique, algorithme, mod&eacute;lisation) ;</li><li>Les m&eacute;canismes de transmission et de transformation de mouvements ;</li><li>Les proc&eacute;d&eacute;s d&rsquo;obtention de pi&egrave;ce (ajout et enl&egrave;vement de mati&egrave;re), de mise en forme (pliage, thermoformage) et <br />d&rsquo;assemblage (fixe et d&eacute;montable) ;</li><li>L&rsquo;ergonomie li&eacute;e &agrave; l&rsquo;usage ;</li><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation dans un atelier de fabrication collaboratif ; les exigences, les interacteurs, les crit&egrave;res.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Proposer et fabriquer une solution pour ajouter une nouvelle fonction à un OST (croquis, schéma, graphique, algorithme, modélisation) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le choix des matériaux ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>Les conductibilit&eacute;s &eacute;lectrique et thermique ;</li><li>La disponibilit&eacute;, la valorisation, le recyclage des mat&eacute;riaux ;</li><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>L&rsquo;empreinte carbone.</li></ul><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Le diagramme de planification des t&acirc;ches : notion de t&acirc;ches, dur&eacute;e et contraintes entre t&acirc;ches ;</li><li>Les &eacute;tapes d&rsquo;un projet, le r&ocirc;le d&rsquo;une revue de projet ;</li><li>L&rsquo;&eacute;coconception.</li></ul><p><br /><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>Les contraintes soci&eacute;tales ;</li><li>L&rsquo;incidence environnementale ;</li><li>Les piliers du d&eacute;veloppement durable.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Comparer différents matériaux pour choisir le plus adapté ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le choix d’une source d’énergie ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, thermique, lumineuse ;</li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Comparer différentes sources d’énergie pour choisir la plus adaptée ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "L’assemblage de constituants ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les fonctions des constituants de la cha&icirc;ne d&rsquo;&eacute;nergie : batterie, relais/interrupteur ;</li><li>Les m&eacute;canismes de transmission de mouvements (engrenages, courroies, cha&icirc;nes) ;</li><li>Les fonctions des constituants suivants : capteurs (temp&eacute;rature, pr&eacute;sence, distance, etc.), microcontr&ocirc;leur, composants d&rsquo;une interface humain-machine (boutons, afficheurs, etc.).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier les constituants manquants dans un prototype et le compléter ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La modélisation et la fabrication ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Les instruments de mesure.</li></ul><p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation au sein d&rsquo;un atelier de fabrication <br />collaboratif ;</li><li>Les moyens de production : d&eacute;coupe au laser, centre d&rsquo;usinage, fabrication additive (imprimante 3D).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Modifier une forme à l’aide d’une modélisation ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Choisir les moyens et produire la forme voulue ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Les objets communicants ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Le r&ocirc;le d&rsquo;un terminal, d&rsquo;une carte r&eacute;seau, des liaisons (filaires ou non filaires), d&rsquo;un commutateur, d&rsquo;un routeur, d&rsquo;un <br />serveur ;</li><li>Les composants d&rsquo;une interface entre l&rsquo;humain et la machine (IHM) : boutons, afficheurs, etc.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Communication et collaboration : interagir ;</li><li>Communication et collaboration : collaborer ;</li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents textuels dans le cadre des revues de projet ;</li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents multim&eacute;dias.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : </li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Interfacer un objet technique avec un réseau ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Valider les solutions techniques par des simulations ou par des protocoles de tests ",
+              "div": "Après avoir concrétisé leurs choix de solutions lors de la phase de réalisation, les élèves s’attachent à la vérification, au contrôle et à la validation de solutions. Cette phase essentielle, menée par l’intermédiaire de simulations ou l’utilisation d’appareils de mesure, permet de comparer les résultats obtenus ou simulés avec des résultats attendus ou des exigences issues d’un cahier des charges. Les élèves identifient les écarts, la précision, les erreurs de mesure. Ils s’appuient sur les documentations techniques mises à leur disposition (documents des constructeurs, données des fabricants, etc.). Les élèves proposent et réalisent un protocole de tests (ce terme englobe l’ensemble des expérimentations, des essais et des mesures que les élèves sont amenés à mettre en œuvre pour valider leurs solutions). ",
+              "lvl": [
+                {
+                  "txt": "La validation du comportement mécanique d’un matériau ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>L&rsquo;indice &eacute;nerg&eacute;tique et l&rsquo;indice de r&eacute;parabilit&eacute;.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Paramétrer une simulation fournie pour valider la tenue mécanique d’un matériau ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Proposer un protocole de test pour valider la tenue mécanique d’un matériau ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La validation des performances d’un OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li> Les param&egrave;tres et les grandeurs mesur&eacute;es, associ&eacute;s &agrave; un protocole ;<br /> Les exigences, les contraintes issues des normes ou d&rsquo;un cahier des charges.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li> Information et donn&eacute;es : g&eacute;rer et traiter des donn&eacute;es ;</li><li> Communication et collaboration : partager et publier ;</li><li> Communication et collaboration : collaborer ;</li><li> Cr&eacute;ation de contenus : d&eacute;velopper des documents &agrave; contenu majoritairement textuel ;</li><li> Cr&eacute;ation de contenus : concevoir des documents visuels et sonores ;</li><li> Environnement num&eacute;rique : r&eacute;soudre des probl&egrave;mes techniques.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li> Physique-chimie :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions : r&eacute;aliser des circuits &eacute;lectriques simples et exploiter les lois de l&rsquo;&eacute;lectricit&eacute; ;</li><li>mouvements et interactions : mod&eacute;liser une action exerc&eacute;e sur un objet par une force caract&eacute;ris&eacute;e par une direction, un sens et une valeur.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Proposer un protocole de test pour valider le comportement et les performances d’un objet technique ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Concevoir, écrire, tester et mettre au point un programme ",
+              "div": "Face à un problème donné, dans le cadre d’un projet nécessitant de la programmation, une phase d’analyse permet aux élèves d’expliciter les fonctionnalités du programme à réaliser puis de concevoir un algorithme en langage naturel répondant au problème posé. Celui-ci est ensuite traduit dans un langage informatique en le structurant avec des sous-programmes ou des fonctions pour en assurer la lisibilité. Une phase de tests et de mise au point permet d’aboutir à un programme répondant aux besoins spécifiés. Le travail en équipe est privilégié pour l’élaboration de projets. Un partage des fonctionnalités à programmer est planifié et piloté par l’enseignant en interaction avec l’équipe d’élèves chargée du projet. ",
+              "lvl": [
+                {
+                  "txt": "La programmation des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><p><br />On retrouve ici les connaissances de la comp&eacute;tence &laquo; Comprendre et modifier le programme associ&eacute; &agrave; une fonction d&rsquo;un objet <br />ou syst&egrave;me technique &raquo; du second th&egrave;me.</p><p><br /><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>La modularit&eacute; : sous-programme, fonction ;</li><li>La structuration d&rsquo;un programme (organisation, modularit&eacute;, commentaires). </li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span> </p><ul style='list-style-type: circle;'><li>Informations et donn&eacute;es : g&eacute;rer et traiter des donn&eacute;es ; </li><li>Communication et collaboration : partager et publier ; </li><li>Communication et collaboration : collaborer ; </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents visuels et sonores ; </li><li>Cr&eacute;ation de contenus : programmer ; </li><li>Environnement num&eacute;rique : r&eacute;soudre des probl&egrave;mes techniques.</li></ul><p><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span> </p><ul style='list-style-type: circle;'><li>Math&eacute;matiques : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>o organisation et gestion de donn&eacute;es, fonctions : interpr&eacute;ter, repr&eacute;senter et traiter des donn&eacute;es ;</li><li>o algorithmique et programmation : &eacute;crire, mettre au point et ex&eacute;cuter un programme simple.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Modifier un algorithme permettant de répondre au besoin ou au problème posé ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Traduire un algorithme permettant de répondre à un besoin ou à un problème simple en un programme. ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Réaliser et mettre au point un programme commandant un système réel incluant éventuellement une interaction entre un humain et une machine ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "txt": "3ème",
+      "div": "",
+      "lvl": [
+        {
+          "txt": "Les objets et les systèmes techniques : leurs usages et leurs interactions à découvrir et à analyser ",
+          "div": "Les objets et les systèmes techniques peuvent évoluer rapidement et changer notre quotidien. Au travers de ce thème, les élèves étudient les objets et les systèmes techniques qui les entourent en décrivant leur fonctionnement global (mise en service et contexte d’utilisation), les usages raisonnés et détournés ainsi que l’incidence de leurs usages sur notre environnement : consommation d’énergie, disponibilité et consommation de ressources, rejets et déchets, échanges de données (images, textes, etc.). De plus, en s’appuyant sur l’étude de l’évolution des usages en fonction des innovations, des inventions et du contexte socio-économique, les élèves sont en mesure de faire le choix éclairé d’un objet ou d’un système technique au regard de critères identifiés.<br>L’étude de cas à partir de manipulations et d’expérimentations est privilégiée. Un travail collaboratif doit conduire les élèves à exprimer et à structurer leur pensée en mobilisant le langage naturel et des outils de représentation (croquis, textes, schémas, diagrammes, algorithmes, etc.). ",
+          "lvl": [
+            {
+              "txt": "Décrire les liens entre usages et évolutions technologiques des objets et des systèmes techniques ",
+              "div": "Au-delà du simple constat, les élèves apprennent à décrire les liens entre l’évolution des besoins et des exigences, et la conception des objets et des systèmes techniques, mais aussi les relations entre les avancées scientifiques, les inventions et les innovations technologiques et les transformations de la société. ",
+              "lvl": [
+                {
+                  "txt": "L’évolution des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissance</span></p><ul style='list-style-type: circle;'><li>Les &eacute;l&eacute;ments qui participent &agrave; l&rsquo;&eacute;volution des besoins (invention, innovation, d&eacute;veloppement durable) ; </li><li>La fonction technique, le principe technique ; </li><li>La famille et la lign&eacute;e d&rsquo;OST ; </li><li>Les contraintes soci&eacute;tales ; &nbsp;Les grands types d&rsquo;apprentissage des intelligences artificielles et leurs usages possibles (g&eacute;olocalisation, identification, <br />calcul, traduction, etc.) ; </li><li>Les incidences soci&eacute;tales, notamment l&rsquo;&eacute;tude du biais et de l&rsquo;effet de l&rsquo;usage d&rsquo;une intelligence artificielle (IA).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier les innovations de rupture qui sont attachées à l’évolution d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Mettre en relation une découverte scientifique avec ses développements technologiques et leurs effets sur la société ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Exprimer dans un argumentaire court l’incidence d’un OST sur la société ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Exprimer dans un argumentaire court l’incidence des contraintes sociétales sur les OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Usages et impacts sociétaux du numérique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances </span></p><ul style='list-style-type: circle;'><li>Syst&egrave;me d&rsquo;information et stockage des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>fichiers informatiques (fichier texte, fichier image, fichier de type tableur ou CSV) et dossiers, arborescence ; </li><li>extension et format de fichiers, droits d&rsquo;&eacute;criture et de lecture sur les fichiers ; </li><li>unit&eacute; de quantit&eacute; d&rsquo;information : bit, octet et leurs multiples ; </li><li>ordre de grandeur de la taille d&rsquo;un fichier image, d&rsquo;un fichier son, d&rsquo;une vid&eacute;; </li><li>incidences li&eacute;es au stockage, au flux des donn&eacute;es et aux r&eacute;seaux d&rsquo;information ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Cybers&eacute;curit&eacute; : protection des donn&eacute;es personnelles, traces num&eacute;riques (t&eacute;moins de connexion, g&eacute;olocalisation), identification, authentification, respect de la propri&eacute;t&eacute; intellectuelle ; </li><li>Cyberviolence : usurpation d&rsquo;identit&eacute;, usage d&eacute;tourn&eacute;. <br />Liens avec le CRCN </li><li>Informations et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ; </li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : s&rsquo;ins&eacute;rer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : interagir ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger les donn&eacute;es personnelles et la vie priv&eacute;e ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger la sant&eacute;, le bien-&ecirc;tre et l&rsquo;environnement.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : identifier les principales incidences de l&rsquo;activit&eacute; humaine, les b&eacute;n&eacute;fices et les risques, &agrave; la surface de la Terre ;</li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Exprimer dans un argumentaire court le rôle du développement stratégique du numérique au sein de la société et des environnements professionnels (ou des métiers) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": " Décrire les interactions entre un objet ou un système technique, son environnement et les utilisateurs ",
+              "div": "Les élèves doivent appréhender des objets et des systèmes techniques de plus en plus complexes, que ce soit par l’augmentation du nombre de leurs fonctions, par la diversité de leurs interactions ou encore par la prise en compte des expériences vécues par les utilisateurs. La mise en service et la manipulation d’objets réels sont à privilégier, afin que les descriptions produites s’inscrivent dans la réalité. ",
+              "lvl": [
+                {
+                  "txt": "L’OST dans son environnement ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les interacteurs ext&eacute;rieurs : usagers, donn&eacute;es, autres objets, &eacute;l&eacute;ments de l&rsquo;environnement ; les modes de repr&eacute;sentation : <br />croquis, sch&eacute;ma, graphique, algorithme, mod&eacute;lisation ; </li><li>Les contraintes : prise en compte des exigences issues des normes ou d&rsquo;un cahier des charges, labels et certifications ; <br />l&rsquo;ergonomie li&eacute;e &agrave; l&rsquo;usage. <br />Liens avec le CRCN </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents textuels ; </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents multim&eacute;dias.</li></ul><span style='text-decoration: underline;'>Connaissances </span></p><ul style='list-style-type: circle;'><li>Syst&egrave;me d&rsquo;information et stockage des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>fichiers informatiques (fichier texte, fichier image, fichier de type tableur ou CSV) et dossiers, arborescence ; </li><li>extension et format de fichiers, droits d&rsquo;&eacute;criture et de lecture sur les fichiers ; </li><li>unit&eacute; de quantit&eacute; d&rsquo;information : bit, octet et leurs multiples ; </li><li>ordre de grandeur de la taille d&rsquo;un fichier image, d&rsquo;un fichier son, d&rsquo;une vid&eacute;; </li><li>incidences li&eacute;es au stockage, au flux des donn&eacute;es et aux r&eacute;seaux d&rsquo;information ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Cybers&eacute;curit&eacute; : protection des donn&eacute;es personnelles, traces num&eacute;riques (t&eacute;moins de connexion, g&eacute;olocalisation), identification, authentification, respect de la propri&eacute;t&eacute; intellectuelle ; </li><li>Cyberviolence : usurpation d&rsquo;identit&eacute;, usage d&eacute;tourn&eacute;. <br />Liens avec le CRCN </li><li>Informations et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ; </li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : s&rsquo;ins&eacute;rer dans un environnement num&eacute;rique ; </li><li>Communication et collaboration : interagir ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger les donn&eacute;es personnelles et la vie priv&eacute;e ; </li><li>Protection et s&eacute;curit&eacute; : prot&eacute;ger la sant&eacute;, le bien-&ecirc;tre et l&rsquo;environnement.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : identifier les principales incidences de l&rsquo;activit&eacute; humaine, les b&eacute;n&eacute;fices et les risques, &agrave; la surface de la Terre ;</li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Décrire l’expérience de l’utilisateur d’un OST à l’aide de modes de représentation choisis ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Caractériser et choisir un objet ou un système technique selon différents critères ",
+              "div": "Les élèves font un choix éclairé en identifiant les critères à prendre en compte pour comparer des objets et des systèmes techniques répondant à un même besoin. Ces critères portent sur les performances des objets ou des systèmes techniques, mais aussi sur leurs incidences environnementales tout au long de leur cycle de vie. ",
+              "lvl": [
+                {
+                  "txt": "Le choix d’un OST dans un contexte de développement durable ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les composantes d&rsquo;une notice et d&rsquo;une documentation technique et leur organisation ; </li><li>L&rsquo;indice &eacute;nerg&eacute;tique et l&rsquo;indice de r&eacute;parabilit&eacute; ; </li><li>Les impacts environnementaux (indicateurs : air, eau, sol et sant&eacute;) ; </li><li>Les piliers du d&eacute;veloppement durable et les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ; </li><li>Les crit&egrave;res de choix : la qualit&eacute;, l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique, la durabilit&eacute;, la recyclabilit&eacute;.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Établir une liste d’OST possibles en vue de répondre à un besoin ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Choisir un OST et argumenter ce choix en prenant en compte son cycle de vie et les trois piliers du développement durable ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Évaluer les OST selon des exigences ou des critères identifiés (caractéristiques, performances, coût, indice de réparabilité) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La performance des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les crit&egrave;res de performance d&rsquo;un OST (grandeurs mesurables : vitesse, autonomie &eacute;nerg&eacute;tique, etc.).</li></ul><p><br /><span style='text-decoration: underline;'>Lien avec le CRCN</span> </p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche et une veille d&rsquo;informations.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Physique-chimie : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>L&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie. </li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>La plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les principaux effets de l&rsquo;activit&eacute; humaine, b&eacute;n&eacute;fices et risques, &agrave; la surface de la Terre. </li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>Grandeurs et mesures :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>calculer avec des grandeurs mesurables ;</li><li>exprimer les r&eacute;sultats dans les unit&eacute;s adapt&eacute;es.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Définir et mettre en œuvre un protocole pour mesurer une caractéristique, une performance d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "txt": "Structure, fonctionnement, comportement : des objets et des systèmes techniques à comprendre ",
+          "div": "Ce thème permet d’étudier, au sein d’objets et de systèmes techniques contemporains, les relations internes entre des fonctions techniques ainsi que les relations entre leurs constituants. L’exploration et l’expérimentation technologique des objets et des systèmes techniques disponibles qui servent de supports aux apprentissages de ce thème mobilisent des documentations techniques et des modèles numériques associés pour développer les compétences liées à ce thème. Il est nécessaire de préciser aux élèves le périmètre d’étude des objets et des systèmes techniques.<br>Tout au long du cycle 4, en mobilisant à la fois leur habileté manuelle, mais aussi leur capacité de programmation, d’usage des logiciels et des ressources informatiques disponibles, les élèves manipulent, réparent, fabriquent et, ce faisant, deviennent capables de comprendre et d’analyser le fonctionnement des objets et des systèmes techniques. L’atelier de fabrication collaboratif offre le cadre idéal pour ces apprentissages. La démarche d’investigation, la démarche technologique et la démarche de résolution de problèmes sont privilégiées. ",
+          "lvl": [
+            {
+              "txt": "Décrire et caractériser l’organisation interne d’un objet ou d’un système technique et ses échanges avec son environnement (énergies, données) ",
+              "div": "En manipulant un objet ou un système technique, l’élève est capable de décrire son fonctionnement, la chaîne d’énergie et la chaîne d’information. Les sources et les formes d’énergie sont identifiées, tout comme les conversions et les transferts. Les mouvements mécaniques sont analysés en distinguant les transmissions et les transformations au sein des objets et des systèmes techniques. L’étude de la chaîne d’information est abordée au travers du rôle central des données dans le traitement informatique, en particulier au niveau des entrées et des sorties du programme associé à l’objet ou au système technique. Les élèves doivent savoir décrire un objet à l’aide de données, puis les structurer pour en extraire de l’information et les analyser avec des outils de mise en forme et de traitement figurant dans un tableur. Après l’étude du stockage de ces données dans des fichiers, celle des composants du réseau permet de comprendre comment ces données circulent dans l’Internet. ",
+              "lvl": [
+                {
+                  "txt": "Fonctions, solutions, constituants de la chaine d’énergie",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, potentielle, thermique, lumineuse ; </li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin ; </li><li>Les fonctions des constituants suivants : batterie, relais/interrupteur ; </li><li>Les m&eacute;canismes de transmission et de transformation de mouvements (engrenages, courroies, cha&icirc;nes).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Élaborer, à l’aide d’un schéma bloc, la chaîne d’énergie d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Matériaux et procédés",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les caract&eacute;ristiques et les propri&eacute;t&eacute;s des principaux mat&eacute;riaux ; </li><li>Les caract&eacute;ristiques des proc&eacute;d&eacute;s de mise en forme disponibles dans le laboratoire ; </li><li>Les &eacute;tapes du cycle de vie d&rsquo;un OST : extraction, traitement, fabrication, assemblage, utilisation, fin de vie, transport ; l&rsquo;incidence environnementale.</li></ul><span style='text-decoration: underline;'>Connaissances</span> </p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, potentielle, thermique, lumineuse ; </li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin ; </li><li>Les fonctions des constituants suivants : batterie, relais/interrupteur ; </li><li>Les m&eacute;canismes de transmission et de transformation de mouvements (engrenages, courroies, cha&icirc;nes).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Justifier le choix d’un matériau et de son procédé de mise en forme au regard des contraintes techniques et environnementales ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Fonctions, solutions, constituants de la chaîne d’information ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Les fonctions des constituants suivants :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>capteurs (temp&eacute;rature, pr&eacute;sence, distance, etc.), microcontr&ocirc;leur, composants d&rsquo;une interface entre l&rsquo;humain et la machine (IHM) : boutons, afficheurs, etc.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Décrire un OST en caractérisant sa chaîne d’information ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Associer des grandeurs analogiques issues d’un OST à des données exploitables ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Structuration et traitement des données ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Vocabulaire des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>objet / descripteur / collection (liste) / type (mot/cha&icirc;ne de caract&egrave;res, nombre et bool&eacute;en) /donn&eacute;es structur&eacute;es ;</li></ul></li></ul><ul style='list-style-type: circle;'><li>Repr&eacute;sentation des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>le bit : &eacute;l&eacute;ment minimum d&rsquo;information, repr&eacute;sentation par les symboles 0 et 1 ; </li><li>repr&eacute;sentation des bool&eacute;ens, des mots (code ASCII &eacute;tendu), des nombres entiers naturels ;</li></ul></li></ul><ul style='list-style-type: circle;'><li>Traitement des donn&eacute;es :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mise en forme et traitement de donn&eacute;es (calculs, filtre, tri) dans un logiciel (tableur).</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Représenter sous forme de données les informations de diverses natures utilisées par un OST ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Identifier, selon les cas, leur mise en forme, leur transmission, ou leur stockage dans des fichiers (texte, image, nombre) afin de comprendre le fonctionnement de l’OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La circulation de l’information dans un réseau informatique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Un r&eacute;seau local, le r&eacute;seau mondial (Internet) ;</li><li>Le r&ocirc;le d&rsquo;un terminal, d&rsquo;une carte r&eacute;seau, des liaisons (filaires ou non filaires), d&rsquo;un commutateur, d&rsquo;un routeur, d&rsquo;unserveur ;</li><li>Le r&ocirc;le et la structure d&rsquo;une adresse IP, le r&ocirc;le des tables de routage ;</li><li>Le d&eacute;bit et les ordres de grandeur associ&eacute;s.</li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche ou une veille d&rsquo;information ;</li><li>Communication et collaboration : partager et publier ;</li><li>Communication et collaboration : collaborer ;</li><li>Environnement num&eacute;rique : &eacute;voluer dans un environnement num&eacute;rique.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>organisation et gestion des donn&eacute;es, fonctions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>interpr&eacute;ter, repr&eacute;senter et traiter des donn&eacute;es.</li></ul></li></ul></li></ul><ul style='list-style-type: circle;'><li>Physique-chimie :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie ;</li></ul></li></ul></li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mouvements et interactions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>caract&eacute;riser un mouvement ; des signaux pour observer et communiquer</li><li>caract&eacute;riser diff&eacute;rents types de signaux.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Identifier et représenter la circulation d’une information dans le réseau Internet ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Justifier la nécessité d’un protocole de routage pour faire communiquer plusieurs réseaux (activité débranchée, table de routage donnée) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Identifier un dysfonctionnement d’un objet technique et y remédier ",
+              "div": "L’initiation des élèves au dépannage et à la réparation d’objets s’appuie sur des problèmes techniques réels. Leur résolution mobilise notamment des compétences manuelles. Ces interventions encouragent le développement de la curiosité et de l’ingéniosité des élèves. Détecter un dysfonctionnement, l’analyser, proposer une solution, réparer puis tester et valider des améliorations sont des activités à proposer aux élèves pour les aider à comprendre la structure d’un objet technique, le rôle des matériaux, l’agencement des solutions constructives. L’étude des propriétés et des caractéristiques des matériaux mobilisés permet aux élèves de comprendre le comportement mécanique des structures et les mécanismes de transformation de mouvements. ",
+              "lvl": [
+                {
+                  "txt": "Le dépannage et la réparation ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>La fiabilit&eacute;, la durabilit&eacute;, l&rsquo;indice de r&eacute;parabilit&eacute; ; </li><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation au sein d&rsquo;un atelier de fabrication <br />collaboratif ;</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>les &eacute;quipements de protection individuelle ; </li><li>l&rsquo;outillage manuel ; </li><li>l&rsquo;appareillage de prototypage, de r&eacute;alisation, de fabrication. </li></ul></li></ul><ul style='list-style-type: circle;'><li>La technologie et les caract&eacute;ristiques des composants &agrave; remplacer : capteurs, actionneurs, composants, <br />microcontr&ocirc;leurs, g&eacute;n&eacute;rateurs ;</li><li>Les proc&eacute;d&eacute;s d&rsquo;obtention de pi&egrave;ce (ajout et enl&egrave;vement de mati&egrave;re), de mise en forme (pliage, thermoformage) etd&rsquo;assemblage (fixe et d&eacute;montable) ;</li><li>Les moyens de production : d&eacute;coupe au laser, centre d&rsquo;usinage, fabrication additive (imprimante 3D) ;</li><li>Les moyens de prototypage &eacute;lectronique : plaque d&rsquo;essai, fils, composants &eacute;lectroniques, g&eacute;n&eacute;rateurs ; <br />Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>Les conductibilit&eacute;s &eacute;lectrique et thermique ; la disponibilit&eacute;, la valorisation, le recyclage des mat&eacute;riaux.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Information et donn&eacute;es : mener une recherche ou une veille d&rsquo;information.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Physique-chimie : <br />&emsp;<ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>identifier les sources, les transferts, les types de conversions et les formes d&rsquo;&eacute;nergie ;</li></ul></li></ul></li></ul><p>&nbsp;</p><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>mouvements et interactions :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>caract&eacute;riser un mouvement.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Formuler des hypothèses expliquant le dysfonctionnement d’un objet technique ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Proposer un protocole de dépannage puis de réparation ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Réaliser le dépannage ou la réparation d’un système défectueux ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Réaliser une pièce sur mesure pour réparer un objet technique ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Comprendre et modifier un programme associé à une fonctionnalité d’un objet ou d’un système technique ",
+              "div": "L’étude du programme réalisant une ou plusieurs fonctionnalités d’un objet ou d’un système technique permet aux élèves d’explorer son comportement. En produisant un algorithme en langage naturel, les élèves identifient les données utilisées ou produites, les interprètent et les traitent si besoin est. Des modifications peuvent être apportées à ce programme, pour répondre à une nouvelle fonctionnalité. L’acquisition des concepts fondamentaux de la programmation s’effectue tout au long du cycle 4, en lien avec le professeur de mathématiques de la classe. ",
+              "lvl": [
+                {
+                  "txt": "La programmation d’une nouvelle fonctionnalité ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Algorithmique et programmation :&nbsp;</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>instruction d&rsquo;affectation, variable (type mot, nombre et bool&eacute;en) ;</li><li>op&eacute;rateurs arithm&eacute;tiques et logiques (ET, OU, NON);</li><li>instruction conditionnelle ;</li><li>instructions it&eacute;ratives ;</li><li>structure de donn&eacute;es &laquo; listes &raquo; afin de stocker des donn&eacute;es issues du programme pour les parcourir et les traiter ;</li><li>s&eacute;quences (bloc) d&rsquo;instructions ;</li><li>&eacute;v&eacute;nement ;</li><li>d&eacute;clenchement d&rsquo;une s&eacute;quence d&rsquo;instructions par un &eacute;v&eacute;nement ;</li><li>entr&eacute;es ou sorties d&rsquo;un programme (donn&eacute;es issues par exemple de capteurs IHM et sorties pouvant &ecirc;tre en lien avec un actionneur, fichiers) ; </li></ul></li></ul><ul style='list-style-type: circle;'><li>Programmation graphique par blocs ; </li><li>Lien entre la programmation graphique par bloc et la programmation textuelle (fin de 3 e ).</li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Cr&eacute;ation de contenus : programmer.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Math&eacute;matiques :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>algorithmique et programmation :</li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>&eacute;crire, mettre au point, ex&eacute;cuter un programme.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Déterminer les données utilisées et produites par un programme associé à une fonctionnalité en vue de le modifier. ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Programmer un algorithme lié à une nouvelle fonctionnalité ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Modifier et tester le programme associé à une nouvelle fonctionnalité d’un OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "txt": "Création, conception, réalisation, innovations : des objets à concevoir et à réaliser",
+          "div": "À travers ce thème, de manière collaborative, les élèves analysent un problème, conçoivent et matérialisent des solutions. Ils développent des habiletés manuelles (créer, réaliser, construire, installer, assembler, produire, mettre en œuvre, mesurer vérifier, exécuter) et des compétences de programmation et de communication au travers de revues de projets (suivi, validation, argumentation, explications, etc.).<br>Les démarches de projet et les phases de créativité mises en œuvre conduisent les élèves à mobiliser leurs connaissances et leurs compétences, notamment celles développées et décrites dans les deux thèmes précédents. Ils sont invités à développer leur esprit critique en réponse à un besoin lié à un enjeu sociétal, en s’appuyant sur des données fiables. Ils exercent leur esprit critique en identifiant les leviers d’action et en se centrant sur les besoins de l’utilisateur. Ils débattent, argumentent et portent un regard critique sur les solutions proposées au regard de leur efficacité et de leurs incidences environnementales et sociétales. Ils imaginent ainsi les solutions les plus appropriées, en alternant les phases de créativité individuelle et collective, et pouvant intégrer une dimension design.<br>Les démarches de projet et les phases de créativité sont menées dans un environnement de type classe modulaire ou flexible, au sein de l’atelier de fabrication collaboratif, tout en ayant recours à un environnement informatique maîtrisé (ENT, réseau, identité numérique, etc.).",
+          "lvl": [
+            {
+              "txt": "Imaginer, concevoir et réaliser une ou des solutions en réponse à un besoin, à des exigences (de développement durable, par exemple) ou à la nécessité d’améliorations dans une démarche de créativité ",
+              "div": "En comparant des solutions existantes ou des familles de produits, les élèves imaginent et formulent une solution associée à une fonction technique répondant à un besoin. Ainsi sont-ils amenés à conceptualiser progressivement les démarches d’investigation, de créativité et de projet. ",
+              "lvl": [
+                {
+                  "txt": "La gestion de projet technique ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Le diagramme de planification des t&acirc;ches : notion de t&acirc;ches, dur&eacute;e et contraintes entre t&acirc;ches ;</li><li>Les &eacute;tapes d&rsquo;un projet, le r&ocirc;le d&rsquo;une revue de projet ;</li><li>L&rsquo;&eacute;coconception.</li></ul><p><br /><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>Les contraintes soci&eacute;tales ;</li><li>L&rsquo;incidence environnementale ;</li><li>Les piliers du d&eacute;veloppement durable.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Élaborer un processus de conception et de réalisation dans une durée, avec des tâches identifiées ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le prototypage de solutions ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de repr&eacute;sentation (croquis, sch&eacute;ma, graphique, algorithme, mod&eacute;lisation) ;</li><li>Les m&eacute;canismes de transmission et de transformation de mouvements ;</li><li>Les proc&eacute;d&eacute;s d&rsquo;obtention de pi&egrave;ce (ajout et enl&egrave;vement de mati&egrave;re), de mise en forme (pliage, thermoformage) et <br />d&rsquo;assemblage (fixe et d&eacute;montable) ;</li><li>L&rsquo;ergonomie li&eacute;e &agrave; l&rsquo;usage ;</li><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation dans un atelier de fabrication collaboratif ; les exigences, les interacteurs, les crit&egrave;res.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Proposer et fabriquer un ensemble de solutions pour produire un nouvel OST (croquis, schéma, graphique, algorithme, modélisation) ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le choix des matériaux ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>Les conductibilit&eacute;s &eacute;lectrique et thermique ;</li><li>La disponibilit&eacute;, la valorisation, le recyclage des mat&eacute;riaux ;</li><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>L&rsquo;empreinte carbone.</li></ul><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Le diagramme de planification des t&acirc;ches : notion de t&acirc;ches, dur&eacute;e et contraintes entre t&acirc;ches ;</li><li>Les &eacute;tapes d&rsquo;un projet, le r&ocirc;le d&rsquo;une revue de projet ;</li><li>L&rsquo;&eacute;coconception.</li></ul><p><br /><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes &eacute;tapes du cycle de vie d&rsquo;un OST ;</li><li>Les contraintes soci&eacute;tales ;</li><li>L&rsquo;incidence environnementale ;</li><li>Les piliers du d&eacute;veloppement durable.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Choisir un matériau constitutif d’un objet et/ou système technique ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Le choix d’une source d’énergie ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les diff&eacute;rentes formes d&rsquo;&eacute;nergie : &eacute;lectrique, cin&eacute;tique, thermique, lumineuse ;</li><li>Les conversions d&rsquo;&eacute;nergie des constituants suivants : moteur &eacute;lectrique, lampe, radiateur, g&eacute;n&eacute;ratrice, v&eacute;rin.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Choisir une source d’énergie pour un OST ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "L’assemblage de constituants ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les fonctions des constituants de la cha&icirc;ne d&rsquo;&eacute;nergie : batterie, relais/interrupteur ;</li><li>Les m&eacute;canismes de transmission de mouvements (engrenages, courroies, cha&icirc;nes) ;</li><li>Les fonctions des constituants suivants : capteurs (temp&eacute;rature, pr&eacute;sence, distance, etc.), microcontr&ocirc;leur, composants d&rsquo;une interface humain-machine (boutons, afficheurs, etc.).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Choisir les constituants et assembler un prototype ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La modélisation et la fabrication ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>Les instruments de mesure.</li></ul><p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les r&egrave;gles usuelles de s&eacute;curit&eacute; et de mise en &oelig;uvre des moyens de r&eacute;alisation au sein d&rsquo;un atelier de fabrication <br />collaboratif ;</li><li>Les moyens de production : d&eacute;coupe au laser, centre d&rsquo;usinage, fabrication additive (imprimante 3D).</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Modéliser une forme voulue ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Choisir les moyens et produire la forme voulue ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "Les objets communicants ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Le r&ocirc;le d&rsquo;un terminal, d&rsquo;une carte r&eacute;seau, des liaisons (filaires ou non filaires), d&rsquo;un commutateur, d&rsquo;un routeur, d&rsquo;un <br />serveur ;</li><li>Les composants d&rsquo;une interface entre l&rsquo;humain et la machine (IHM) : boutons, afficheurs, etc.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li>Communication et collaboration : interagir ;</li><li>Communication et collaboration : collaborer ;</li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents textuels dans le cadre des revues de projet ;</li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents multim&eacute;dias.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li>Sciences de la vie et de la Terre :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>la plan&egrave;te Terre, l&rsquo;environnement et l&rsquo;activit&eacute; humaine : </li></ul></li></ul><ul><li style='list-style-type: none;'><ul><li style='list-style-type: none;'><ul style='list-style-type: square;'><li>envisager ou justifier des comportements responsables face &agrave; l&rsquo;environnement et &agrave; la pr&eacute;servation des ressources limit&eacute;es de la plan&egrave;te.</li></ul></li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Interfacer deux objets techniques communicants ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Valider les solutions techniques par des simulations ou par des protocoles de tests ",
+              "div": "Après avoir concrétisé leurs choix de solutions lors de la phase de réalisation, les élèves s’attachent à la vérification, au contrôle et à la validation de solutions. Cette phase essentielle, menée par l’intermédiaire de simulations ou l’utilisation d’appareils de mesure, permet de comparer les résultats obtenus ou simulés avec des résultats attendus ou des exigences issues d’un cahier des charges. Les élèves identifient les écarts, la précision, les erreurs de mesure. Ils s’appuient sur les documentations techniques mises à leur disposition (documents des constructeurs, données des fabricants, etc.). Les élèves proposent et réalisent un protocole de tests (ce terme englobe l’ensemble des expérimentations, des essais et des mesures que les élèves sont amenés à mettre en œuvre pour valider leurs solutions). ",
+              "lvl": [
+                {
+                  "txt": "La validation du comportement mécanique d’un matériau ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li>Les modes de sollicitation des mat&eacute;riaux (flexion, torsion) ;</li><li>L&rsquo;indice &eacute;nerg&eacute;tique et l&rsquo;indice de r&eacute;parabilit&eacute;.</li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Mettre en œuvre une simulation pour valider la tenue mécanique d’un matériau ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Proposer un protocole de test pour valider la tenue mécanique d’un matériau ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                },
+                {
+                  "txt": "La validation des performances d’un OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><ul style='list-style-type: circle;'><li> Les param&egrave;tres et les grandeurs mesur&eacute;es, associ&eacute;s &agrave; un protocole ;<br /> Les exigences, les contraintes issues des normes ou d&rsquo;un cahier des charges.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec le CRCN</span></p><ul style='list-style-type: circle;'><li> Information et donn&eacute;es : g&eacute;rer et traiter des donn&eacute;es ;</li><li> Communication et collaboration : partager et publier ;</li><li> Communication et collaboration : collaborer ;</li><li> Cr&eacute;ation de contenus : d&eacute;velopper des documents &agrave; contenu majoritairement textuel ;</li><li> Cr&eacute;ation de contenus : concevoir des documents visuels et sonores ;</li><li> Environnement num&eacute;rique : r&eacute;soudre des probl&egrave;mes techniques.</li></ul><p><br /><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span></p><ul style='list-style-type: circle;'><li> Physique-chimie :</li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>l&rsquo;&eacute;nergie, ses transferts et ses conversions : r&eacute;aliser des circuits &eacute;lectriques simples et exploiter les lois de l&rsquo;&eacute;lectricit&eacute; ;</li><li>mouvements et interactions : mod&eacute;liser une action exerc&eacute;e sur un objet par une force caract&eacute;ris&eacute;e par une direction, un sens et une valeur.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Proposer un protocole de test pour valider le comportement et les performances d’un objet technique ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "txt": "Concevoir, écrire, tester et mettre au point un programme ",
+              "div": "Face à un problème donné, dans le cadre d’un projet nécessitant de la programmation, une phase d’analyse permet aux élèves d’expliciter les fonctionnalités du programme à réaliser puis de concevoir un algorithme en langage naturel répondant au problème posé. Celui-ci est ensuite traduit dans un langage informatique en le structurant avec des sous-programmes ou des fonctions pour en assurer la lisibilité. Une phase de tests et de mise au point permet d’aboutir à un programme répondant aux besoins spécifiés. Le travail en équipe est privilégié pour l’élaboration de projets. Un partage des fonctionnalités à programmer est planifié et piloté par l’enseignant en interaction avec l’équipe d’élèves chargée du projet. ",
+              "lvl": [
+                {
+                  "txt": "La programmation des OST ",
+                  "div": "<p><span style='text-decoration: underline;'>Connaissances des deux autres th&egrave;mes &agrave; remobiliser</span></p><p><br />On retrouve ici les connaissances de la comp&eacute;tence &laquo; Comprendre et modifier le programme associ&eacute; &agrave; une fonction d&rsquo;un objet <br />ou syst&egrave;me technique &raquo; du second th&egrave;me.</p><p><br /><span style='text-decoration: underline;'>Connaissances</span></p><ul style='list-style-type: circle;'><li>La modularit&eacute; : sous-programme, fonction ;</li><li>La structuration d&rsquo;un programme (organisation, modularit&eacute;, commentaires). </li></ul><p><span style='text-decoration: underline;'>Liens avec le CRCN</span> </p><ul style='list-style-type: circle;'><li>Informations et donn&eacute;es : g&eacute;rer et traiter des donn&eacute;es ; </li><li>Communication et collaboration : partager et publier ; </li><li>Communication et collaboration : collaborer ; </li><li>Cr&eacute;ation de contenus : d&eacute;velopper des documents visuels et sonores ; </li><li>Cr&eacute;ation de contenus : programmer ; </li><li>Environnement num&eacute;rique : r&eacute;soudre des probl&egrave;mes techniques.</li></ul><p><span style='text-decoration: underline;'>Liens avec d&rsquo;autres disciplines</span> </p><ul style='list-style-type: circle;'><li>Math&eacute;matiques : </li></ul><ul><li style='list-style-type: none;'><ul style='list-style-type: disc;'><li>o organisation et gestion de donn&eacute;es, fonctions : interpr&eacute;ter, repr&eacute;senter et traiter des donn&eacute;es ;</li><li>o algorithmique et programmation : &eacute;crire, mettre au point et ex&eacute;cuter un programme simple.</li></ul></li></ul>",
+                  "lvl": [
+                    {
+                      "txt": "Élaborer ou concevoir un algorithme permettant de répondre au besoin visé, puis le traduire en un programme structuré (appel de sous-programmes ou de fonctions), le tester et le mettre au point ",
+                      "div": "",
+                      "lvl": []
+                    },
+                    {
+                      "txt": "Réaliser et mettre au point un programme commandant un système réel incluant une interaction entre un humain et une machine ",
+                      "div": "",
+                      "lvl": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
